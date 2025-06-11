@@ -1304,7 +1304,27 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         tags: ['Business', 'Tesla', 'Elon Musk'],
         featured: false,
         trending: false
-    }
+    },
+     {
+        id: '36',
+        title: 'Amazon plans to invest $10B to expand cloud and AI capabilities in North Carolina',
+        excerpt: 'Amazon is investing $10 billion in North Carolina to build state-of-the-art cloud infrastructure supporting AI innovation.',
+        content: `<p>The project will create hundreds of new high-skilled jobs and support thousands of local jobs within the AWS data center supply chain, providing economic opportunities across the state.</p>
+<p>Amazon plans to power these facilities entirely with renewable energy while developing educational programs with local schools to prepare the workforce for future tech careers.
+</p>
+<p>This investment represents Amazon’s continued commitment to the region following earlier data center development in the state.</p>
+<p>North Carolina was chosen for its strong existing infrastructure, skilled workforce, and supportive business climate.</p>
+
+<p>The expansion will help meet growing demand for cloud services and AI computing power.</p>`,
+        category: 'Startups',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'May, 2025',
+        image: 'images/amazon.jpeg?w=800&h=600&fit=crop',
+        tags: ['Amazon', 'AI', 'Startups'],
+        featured: true,
+        trending: true
+    },
 ];
 
 // Global state
