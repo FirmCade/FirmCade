@@ -128,18 +128,17 @@ const articles = [
 
 <p>You can find a full list below:</p>
 <ul>
-<li>strong>Nintendo Switch 2 Pro Controller: $79.99 ($10 more than the original Pro Controller RRP)</strong></li>
-<li>strong>Joy-Con 2 controllers: $89.99 ($10 more than original Joy-Con pairs)</strong></li>
-<li>strong>Joy-Con 2 Charging Grip: $34.99</strong></li>
-<li>strong>Joy-Con 2 Strap: $12.99</strong></li>
-<li>strong>Joy-Con 2 Wheel (set of two): $19.99</strong></li>
-<li>strong>Nintendo Switch 2 Camera: $49.99</strong></li>
-<li>strong>Nintendo Switch 2 Dock Set (includes Switch 2 Dock, AC adapter, USB-C cable and Ultra High-Speed HDMI Cable: $109.99</strong></li>
-<li>strong>Nintendo Switch 2 Carry Case & Screen Protector: $34</strong></li>
-<li>strong>Nintendo Switch 2 All-in-One Carry Case: $79</strong></li>
-<li>strong>Nintendo Switch 2 AC Adapter: $29 (same as original Switch)</strong></li>
-<ul>
-
+<li><strong>Nintendo Switch 2 Pro Controller: $79.99 ($10 more than the original Pro Controller RRP)</strong></li>
+<li><strong>Joy-Con 2 controllers: $89.99 ($10 more than original Joy-Con pairs)</strong></li>
+<li><strong>Joy-Con 2 Charging Grip: $34.99</strong></li>
+<li><strong>Joy-Con 2 Strap: $12.99</strong></li>
+<li><strong>Joy-Con 2 Wheel (set of two): $19.99</strong></li>
+<li><strong>Nintendo Switch 2 Camera: $49.99</strong></li>
+<li><strong>Nintendo Switch 2 Dock Set (includes Switch 2 Dock, AC adapter, USB-C cable and Ultra High-Speed HDMI Cable: $109.99</strong></li>
+<li><strong>Nintendo Switch 2 Carry Case & Screen Protector: $34</strong></li>
+<li><strong>Nintendo Switch 2 All-in-One Carry Case: $79</strong></li>
+<li><strong>Nintendo Switch 2 AC Adapter: $29 (same as original Switch)</strong></li>
+</ul>
 <p>Overall, the new peripherals aren't much more expensive than they already were.</p>
 
 <p>While the system might appear similar to its predecessor, its strength lies in its refinement and an impressive assortment of first and third-party games.</p>
@@ -1290,7 +1289,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         id: '35',
         title: 'Elon Musk could become worlds First Trillionare by 2027.',
         excerpt: 'Elon Musk is on track to become the worlds first trillionare by 2027, according to new reports.',
-        content: `<p>T Musk, who heads Tesla , SpaceX and X ( formely Twitter ) , has seen is wealth grow at an impressive rate of 110% per year.</p>
+        content: `<p>Elon Musk, who heads Tesla , SpaceX and X ( formely Twitter ) , has seen is wealth grow at an impressive rate of 110% per year.</p>
 
 <p>He's currently worth $251 billion, based on the Bloomberg Billionare Index.</p>
 <p>The report also suggests that Gautam Adai from India might reach trillionare status by   2028, along with Jensen Huang of Nvidia and Prajogo Pangestu.</p>      
@@ -1304,7 +1303,680 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         tags: ['Business', 'Tesla', 'Elon Musk'],
         featured: false,
         trending: false
-    }
+    },
+    {
+        id: '36',
+        title: 'Amazon plans to invest $10B to expand cloud and AI capabilities in North Carolina',
+        excerpt: 'Amazon is investing $10 billion in North Carolina to build state-of-the-art cloud infrastructure supporting AI innovation. ',
+        content: `<p>The project will create hundreds of new high-skilled jobs and support thousands of local jobs within the AWS data center supply chain, providing economic opportunities across the state.</p>
+<p>Amazon plans to power these facilities entirely with renewable energy while developing educational programs with local schools to prepare the workforce for future tech careers.</p>
+<p>This investment represents Amazon’s continued commitment to the region following earlier data center development in the state.</p>
+<p>North Carolina was chosen for its strong existing infrastructure, skilled workforce, and supportive business climate.</p>
+</p>The expansion will help meet growing demand for cloud services and AI computing power.</p>`,
+        category: 'AI',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'April, 2025',
+        image: 'images/amazon.jpeg?w=800&h=600&fit=crop',
+        tags: ['AI', 'Amazon', 'Startup'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '37',
+        title: 'iOS 26 brings a major design overhaul with Liquid Glass, a new design language that introduces translucent controls, refractions, and fluid animations.',
+        excerpt: 'The update also introduces Apple Intelligence, enabling on-device translation for calls and messages, AI suggestions in Reminders, Genmoji, Image Playground, visual intelligence via screenshots, and new Foundation Models framework for developers.',
+        content: `<p>And no, you haven’t missed seven operating system upgrades since iOS 18 last year. Apple has changed the naming structure of its OS updates and made them all consistent—visionOS 26, watchOS 26, macOS 26—so they’re now tied to the year after their launch, similar to what car makers do when debuting new models.</p>
+<p>The main highlight across all of Apple’s updates announced at WWDC 2025 revolves around the new look and feel of the interface, a design language the company calls Liquid Glass. </p>
+<p>Beyond that, several new features are coming to iOS, from live translation in messages and calls to the ability to search anything on your iPhone screen through Visual Intelligence. </p>
+<p>The Photos app is also getting its tabs back! More significant are the updates to iPadOS, which will now support windowed apps that are resizable and can be tiled, bringing it closer to a desktop computing experience people have been waiting for.</p>
+
+<h2>Top iOS 26 Features</h2>
+<p>Let's take a look at the top new features in iOS 26. You can read more about it directly from Apple here.</p>
+<h2>Liquid Glass and Lock Screen Changes</h2>
+<p>Apple has a new design language for the iPhone, the first major visual overhaul in years, and it's called Liquid Glass. </p>
+<p>It's very much like the Windows Aero theme from the Microsoft Vista days in 2006. </p>
+<p>The interface acts like glass, so pulling down the lock screen feels like you're moving a pane of glass, and you can see how the apps interact around it. </p>
+<p>There are even specular highlights on app icons that shift as the phone moves in your hand. Apple has also added some newer animations that feel bouncy, not unlike some of the new animations in Android 16.</p>
+<p>There's supposedly no change in performance or battery life to render these effects.
+</p>
+<p>You can have the normal app icons with Liquid Glass, and you can even tint the apps just like last year. But there's a new option for “Clear” app icons, and everything in the interface switches to that all-glass look.</p>
+<p>Over on the lock screen, the time now adapts to the photo, stretching until it goes right behind the top of the subject for a depth effect. Also, when new notifications come in, the subject in your photo shifts up so that the notifications don't block them. There's also a new way to turn 2D photos into a 3D effect in the Photos app, and you can apply those to the lock screen.</p>
+
+<h2>Call Screening and Phone App Redesign</h2>
+<p>Taking a page from Google's Call Screen feature on Pixel phones, Apple has finally added its own version in iOS 26.</p>
+<p>Once you enable Call Screening, it'll automatically answer calls from unknown callers in the background without alerting you.</p>
+<p>Once the caller gives a reason for their call, your phone will ring, but you'll be able to see the response on the screen so you can decide whether you want to answer or not.</p>
+<p>Just like Google's Hold for Me feature, Apple has a Hold Assist function that makes staying on hold more bearable. </p>
+<p>If you're trying to reach a company but hear the dreaded hold music, you can turn this feature on and won't have to pay super close attention to your phone. When the music is over and a live agent starts talking, you'll get a notification—handy if you need to wait more than 30 minutes just to reach a customer service rep.</p>
+<p>These screening functions are also in the Messages and FaceTime app with an “Unknown Senders” tab. </p>
+<p>You can approve these numbers and they'll show up in your main Messages view, or mark them as spam. (Some will automatically be screened as Spam.)</p>
+<p>The Phone app also has a new look, with your favorites up top and recent calls below. You'll be able to switch to the old Phone app user interface through a toggle on the top right of the app.</p>
+
+<h2>Live Translation in Messages, Phone, and FaceTime</h2>
+<p>You can now get live translations from Apple's Messages, Phone, and FaceTime apps. </p>
+<p>We've seen similar versions of this technology from Samsung and Google on their respective phones over the last few years. In the Phone app, you can turn on a translation mode, and a voice will translate what the other person says and vice versa in real time. </p>
+<p>(You can toggle whether you need translation both ways or just for one language.) Over in the Messages app, you'll see translated text as a part of your message bubble when speaking with someone else, and in FaceTime, you'll get real-time translated subtitles. </p>
+<p>All of these happen on-device, so data doesn't leave your iPhone, and they'll also work when you're communicating with people using Android phones.</p>
+<p>At the moment, Live Translation in Phone and FaceTime only works with one-on-one calls in English (UK and US), French (France), German, Portuguese (Brazil), and Spanish (Spain). </p>
+<p>Live Translation in Messages has slightly broader language support, including Chinese (simplified) and Japanese. Since there's now a Phone app on iPadOS and MacOS, you can still take advantage of these features if you answer on those platforms.</p>
+
+<h2>Visual Intelligence and the iPhone Screen</h2>
+<p>Visual Intelligence debuted with Apple Intelligence as a way to have Siri understand the world around you through the iPhone's camera.</p>
+<p>It's now expanding to understand the context of your iPhone's screen. </p>
+<p>Very much like Google's Gemini, Visual Intelligence can identify what's on your screen and suggest specific actions.</p>
+<p>Unlike triggering Visual Intelligence and Siri with the Camera Control or Action Button, to trigger the onscreen contextual mode, you have to take a screenshot (these don't have to be saved if you tap the X icon on the top left).</p>
+<p>If you take a screenshot of an invitation someone sent you, for example, you'll see a suggestion to add it to your calendar with one tap. </p>
+<p>If you're looking at a PDF, a screenshot might suggest a summarization so you can get the highlights.</p>
+<p>There's even a feature very similar to Google Lens or Google's Circle to Search, where you can take a screenshot and then highlight a specific thing on the page you want to search via Google, or through another app that's installed on your phone that supports the feature, like Etsy.</p>
+<p>So you can highlight a vase, for example, and then find similar results via Google or similar shoppable vases on Etsy.</p>
+
+<h2>New Group Message and Emoji Features</h2>
+<p>Group chats are finally getting typing indicators and polls (though the latter is exclusive to iMessage group chats). </p>
+<p>There's also the ability to add new background designs for messages to make them more personalized. If you're big on emoji, you might like the new ability to mix two emojis together via Genmoji in the keyboard or in Apple's Image Playground app. (It's somewhat similar to Google's Emoji Kitchen.)</p>
+
+<h2>A New Games App</h2>
+<p>There's a new app in iOS 26! The Games app is now your one-stop shop to see all the games you've ever bought on the App Store, and you can launch them right from this app. (There's even controller support so you can use a mobile controller to move through the user interface.)</p>
+<p>The app lets you discover new games, see what your friends are playing, and a Challenges tab lets you compete even with single-player games via a leaderboard.</p>
+
+<h2>Other Noteworthy Features</h2>
+<p>There are several other features not mentioned here, but here are a few other highlights.</p>
+<ul>
+    <li><strong>Photos : </strong> Apple heard your complaints about the Photos app and brought back the Library and Collections tabs on the main page of the app.</li>
+    <li><strong>Camera : </strong> The Camera app has a new look, with a simplified Photo and Video layout that expands when you move through modes.</li>
+    <li><strong>Reminders : </strong> You'll now see suggested tasks, shopping items, or follow-ups based on your emails and texts on your iPhone, powered by Apple Intelligence. There's also an option to auto-categorize related reminders in a list.</li>
+    <li><strong>AirPods Audio and Video Recording : </strong>  If you have AirPods or AirPods Pro with the H2 chip, you can start recording a video in the iPhone's camera app by pressing and holding on the stem. You can also record audio in high definition in the camera app with those AirPods.</li>
+    <li><strong>Maps : </strong> Maps will learn the routes you travel regularly and will give you a heads up about delays before you leave the house. Also, there's now a Visited Places section in the app (you have to opt in, and you can choose for how long Maps stores this data, from 3 months to forever).</li>
+    <li><strong>Apple Music : </strong> In the Music app, there's now an AutoMix feature that will seamlessly mixes one song to the next like a DJ using tools like time stretching and beatmatching. Also, if you're looking at music lyrics, you can now see translations.</li>
+    <li><strong>Wallet : </strong>Apple's Wallet app can create Digital IDs with your US passport, which can be used at TSA checkpoints, in apps, and in person. Also, your boarding pass will now feature airport maps, luggage tracking with Find My, and sharable Live Activities so your loved ones can easily receive and see your flight info.</li>
+    <li><strong>Image Playground : </strong> There are new ChatGPT styles to choose from when generating images in Apple's image generation app.</li>
+    <li><strong>CarPlay : </strong> Live Activities are now coming to CarPlay, so you can see the status of a friend's flight as you're on your way to the airport to pick them up. You can also now react in Messages with Tapback.</li>
+    <li><strong>Foundation Models Framework : </strong> Provides developers with access to on-device AI capabilities, enabling them to create innovative and intelligent apps. </li>
+    <li><strong>Order Tracking : </strong> Apple Intelligence can automatically identify and summarize order tracking details from emails. </li>
+    <li><strong>Improved AirPods capabilities : </strong> AirPods 4 and AirPods Pro 2 support studio-quality sound recording and improved sound for calls and videos. </li>
+    <li><strong>Adaptive Power : </strong> A new setting on the iPhone that intelligently adjusts screen brightness and other settings to preserve battery life. </li>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/iOS26.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: true,
+        trending: true
+    },
+    {
+        id: '38',
+        title: 'macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever',
+        excerpt: 'Introducing a stunning new design, more Continuity experiences with the Phone app, the biggest update to Spotlight ever, and expanded Apple Intelligence capabilities',
+        content: `<p>macOS Tahoe 26 introduces a beautiful new design, additional Continuity experiences, along with even more features to turbocharge productivity.</p>
+<p>Apple today previewed the next major macOS release — macOS Tahoe 26 — which introduces a stunning new design and powerful capabilities that enable users to get even more done. </p>
+<p>With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars.</p>
+<p>Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. </p>
+<p>Continuity gets even better with the Phone app arriving on Mac, so users can access familiar features from iPhone — including Recents, Contacts, and Voicemails — and new ones like Call Screening1 and Hold Assist.</p>
+<p>Spotlight gets its biggest update ever, allowing users to now directly execute hundreds of actions — like sending an email or creating a note — and take advantage of all-new browsing experiences to get to content faster.</p>
+<p>Apple Intelligence expands with powerful new features that elevate the Mac experience further, while protecting privacy at every step. Live Translation helps users easily communicate across languages, translating text and audio.</p>
+<p>Genmoji and Image Playground offer new options for creativity.3 Shortcuts get even more powerful with intelligent actions and the ability to now tap directly into Apple Intelligence models to automate complex tasks.</p>
+<p>“macOS is the heart and soul of the Mac, and with Tahoe, we’re building on what users love most. Whether you’re a power user or just getting started on Mac, there’s something for everyone, with even more features to turbocharge productivity and make working across Mac and iPhone more seamlessly than ever before,” said Craig Federighi, Apple’s senior vice president of Software Engineering.</p>
+<p>“With its gorgeous new design, amazing Continuity with the Phone app, powerful enhancements to Spotlight, more intelligent shortcuts, and updates to Apple Intelligence, the Mac experience is better than ever.”</p>
+
+<h2>A Gorgeous New Design</h2>
+<p>The gorgeous new design enhances the Mac experience in new ways, while maintaining the familiarity of macOS.</p>
+<p>It is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings.</p>
+<p>The Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content. The menu bar is now completely transparent, making the display feel even larger.</p>
+<p>There are more ways to customize what controls appear in the menu bar and Control Center, along with how they’re laid out. The new design also unlocks more personalization on the Mac.</p>
+<p>App icons come to life in light or dark appearances, colorful new light and dark tints, as well as an elegant new clear look.</p>
+<p>Users can also change the colors of folders and add a symbol or emoji to give them a unique identity. And when combined with personalized wallpapers and theme colors, it’s easier than ever to make Mac a seamless extension of a user’s style.</p>
+<p>The new design elevates iconic elements of macOS, making them at once fresh and timelessly Mac. From the moment a user unlocks their Mac, the desktop is instantly familiar.</p>
+
+
+<h2>Continuity gets even better with the Phone App on Mac </h2>
+<p>The Phone app arrives on Mac thanks to Continuity, which lets users relay cellular calls from their nearby iPhone.</p>
+<p>The Phone app on Mac has the familiar features of the Phone app on iPhone — including Recents, Favorites, and Voicemails — and the latest updates like Call Screening and Hold Assist. </p>
+<p>Call Screening automatically answers calls from unknown numbers and asks the caller for information so a user can decide whether or not to answer.</p>
+<p>And when a user is stuck on hold, Hold Assist allows them to keep their spot in line while they wait for a live agent, so users can continue working on their Mac.</p>
+<p>With the new Phone app for Mac, users can conveniently access familiar content — like Recents, Contacts, and Voicemail — synced from iPhone, and easily make a call with a click.</p>
+
+
+<h2>The Biggest Update Ever to Spotlight</h2>
+<p>Spotlight, the central place to search for things on Mac, makes finding what users are looking for easier than ever, and provides users with all-new ways to take action.</p>
+<p>During a search, all results — including files, folders, events, apps, messages, and more — are now listed together and ranked intelligently based on relevance to the user. </p>
+<p>New filtering options rapidly narrow searches to exactly what a user is looking for, like PDFs or Mail messages. Spotlight can also surface results for documents stored on third-party cloud drives.</p>
+<p>And when a user doesn’t know exactly what they’re searching for, Spotlight’s new browse views make it easy to scan through their apps, files, clipboard history, and more.</p>
+<p>All of a user’s apps are now on view in Spotlight.</p>
+<p>Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps.</p>
+<p>Users can take actions from both Apple apps and apps built by developers, because any app can provide actions to Spotlight using the App Intents API. </p>
+<p>Users can also run shortcuts and perform actions from the menu bar in the app they’re currently working in, all without lifting their hands off the keyboard. Spotlight learns from users’ routines across the system and surfaces personalized actions, such as sending a message to a colleague a user regularly talks to.</p>
+<p>Additionally, Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
+<p>Items from the menu bar for the app a user is currently working in are searchable in Spotlight.</p>
+<p>Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
+
+
+<h2>Brand-New Capabilities Powered by Apple Intelligence</h2>
+<p>Apple Intelligence, the personal intelligence system that delivers helpful and relevant intelligence, gets even more capable while protecting users’ privacy at every step.</p>
+<ul>
+    <li><strong>Seamless communication across language barriers with Live Translation : </strong>
+        In Messages, Live Translation can automatically translate messages, so if a user is making plans with new friends while traveling abroad, their message can be translated as they type and delivered in the recipient’s preferred language.
+        And when the user receives a response, each text can be instantly translated.
+        On FaceTime, a user can follow along with translated live captions while still hearing the speaker’s voice. And when a user is on a call in the Phone app, their words are translated for the recipient as they speak.
+        This is enabled by Apple-built models that run entirely on device, so conversations stay private.
+    </li>
+    <li><strong>Shortcuts get more intelligent : </strong>
+        A whole new class of intelligent actions lets users create shortcuts that are more powerful than ever, including summarizing text with Writing Tools and creating images with Image Playground. 
+        And now users will be able to tap directly into Apple Intelligence models, either on-device or with Private Cloud Compute, to generate responses that feed into the rest of their shortcut, maintaining the privacy of information used.
+        For example, a student can build a shortcut that uses Apple Intelligence models to compare an audio transcription of a class lecture to the notes they took, and add any key points they may have missed. 
+        Users can also choose to tap into ChatGPT for its broad world knowledge and expertise. 
+        Additionally, users can now run shortcuts automatically on macOS, such as at a specific time of day, or when taking a specific action like saving a file to a folder or connecting a display.
+    </li>
+    <li><strong>Updates to Genmoji and Image Playground : </strong>
+        macOS Tahoe brings new ways to create Genmoji, giving users the ability to start with existing emoji and descriptions, modify personal attributes like hair length or accessories, and select expressions based on the moment.
+        Users will also have more control of personal attributes and expressions in Image Playground, and can tap into brand-new styles with ChatGPT, like an oil painting style or vector art. 
+        For moments when users have a specific idea in mind, they can tap Any Style and describe exactly what they want.
+    </li>
+    <li><strong>Increased productivity with Reminders : </strong>
+        Apple Intelligence can review an email, website, note, or other content on Mac to find the most relevant action items. 
+        And users can also choose to use Apple Intelligence to automatically categorize Reminders into sections to make them more manageable.
+        Live Translation on FaceTime helps users communicate across languages by following along with translated live captions while still hearing the speaker’s voice.
+    </li>
+</ul>
+<h2>New Apple Games App, Game Overlay, and More Titles</h2>
+<p>macOS Tahoe introduces Apple Games, a dedicated app that gives players a home for all their games, making it easier to jump back into favorites, discover new games tailored just for them, and play with friends in whole new ways.</p>
+<p>With the new Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
+<p>Players can also turn on Low Power Mode, which extends gaming sessions and maximizes playtime on battery.</p>
+<p>For developers, macOS Tahoe introduces Metal 4, which brings even more advanced graphics and next-generation rendering technologies to games, like MetalFX Frame Interpolation and MetalFX Denoising, for smoother visuals and faster frame rates.</p>
+<p>The new Apple Games app is an all-in-one destination that gives players a home for all their games and playing with friends.</p>
+<p>Alongside these improvements, developers continue to deliver exciting new games on Mac, including upcoming titles like Crimson Desert and InZOI.</p>
+<p>Both games leverage powerful software technologies like MetalFX Upscaling to accelerate performance and deliver high-quality visuals, as well as take advantage of the M3 and M4 family of chips with ray tracing for a breathtaking experience. </p>
+<p>Additional titles on the way include Cyberpunk 2077, Cronos: The New Dawn, Architect: Land of Exiles, Lies of P: Overture, HITMAN World of Assassination, EVE Frontier, Where Winds Meet, and more.</p>
+<p>With Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
+
+<h2>Additional features in macOS Tahoe include : </h2>
+<ul>
+    <li><strong>Safari, </strong>
+        the world’s fastest browser,6 offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar with new sections to help users more easily find saved content like iCloud Tabs and Saved. 
+        When compared to Chrome, Safari is 50 percent faster at loading frequently visited websites7 and offers up to four more hours of battery life when streaming video.
+        And for even greater protection from trackers when browsing, Safari now offers advanced fingerprinting protection in all browsing by default.
+    </li>
+    <li>The <strong> Messages App</strong> 
+        brings Backgrounds, Polls, and a redesigned details view that helps users easily navigate what has been shared in a conversation. 
+        Plus, it features typing indicators in groups to let participants know exactly who is going to chime in, as well as the ability to add new contacts easily right from the group chat and search with more natural language.
+    </li>
+    <li><strong>Journal </strong>
+        comes to Mac, making it easy to capture and write about everyday moments and special events when inspiration strikes.
+        On Mac, it’s easy to type long, thoughtful entries and view them on a map. Users can keep multiple journals for various aspects of life, which are all synced across Apple devices.
+    </li>
+    <li><strong>Photos</strong>
+        has an updated design that includes beautiful Liquid Glass elements, enhancements for customization, easier workflows, and sidebar consistency with iPadOS.
+        Pinned Collections now come to Mac, so users can access the collections they use most with a click on the sidebar. 
+        Users will also find new buttons to quickly access filtering and sorting options in all views, and the ability to customize the size of Collections tiles, so they can view their library just how they like.
+    </li>
+    <li>On<strong> FaceTime </strong>
+        the reimagined landing page features beautiful Contact Posters of recent callers, Liquid Glass controls now float in the bottom right and recede to create more space, and a new More button lets users quickly access features like SharePlay and Live Translation.
+    </li>
+    <li><strong>Notes </strong>
+        adds the ability to import and export a note into a markdown file, and support for capturing conversations in the Phone app as audio recordings with transcriptions.
+    </li>
+    <li><strong>Accessibility </strong>
+        features include Magnifier on Mac, which enables users with low vision to zoom in on their surroundings using Continuity Camera on iPhone or attached USB cameras, apply image filters so items are easier to see or read, and even change perspective when viewing presentations or books from an angle.
+         Additional features include Accessibility Reader, a new systemwide reading mode designed with accessibility in mind; an all-new Braille Access experience that offers a user-friendly interface for those with a connected braille display; and Vehicle Motion Cues, which helps reduce motion sickness in a moving vehicle.
+    </li>
+    <li>With <strong> Passwords </strong>
+        users can easily reference changes they make to their accounts, including checking previous versions of passwords they save, along with details on when they were changed.
+        A Safari screen is shown on 16-inch MacBook Pro.
+        16-inch MacBook Pro shows a conversation in Messages with a Background created from a sunset photo.
+    </li>
+    <li>Safari offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar.</li>
+</ul>
+
+<h2>Availability</h2>
+<p>All of these features are available for testing starting today through the Apple Developer Program at developer.apple.com, and a public beta will be available through the Apple Beta Software Program next month at beta.apple.com.</p>
+<p>The release will be available as a free software update this fall. The Apple Intelligence features detailed require supported devices, which include all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later that have Apple Intelligence enabled and Siri and device language set to the same supported language: English, French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, or Chinese (simplified). </p>
+<p> More languages will be coming by the end of this year: Danish, Dutch, Norwegian, Portuguese (Portugal), Swedish, Turkish, Chinese (traditional), and Vietnamese. For more information, visit apple.com/os/macos and apple.com/apple-intelligence. Features are subject to change. Some features may not be available in all languages or regions, and availability may vary due to local laws and regulations. For more information about availability, visit apple.com.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/macOSTahoe.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: true,
+        trending: true
+    },
+    {
+        id: '39',
+        title: 'The Top New iPadOS 26 Features',
+        excerpt: 'iPadOS makes the iPad more capable, productive, and intelligent than ever',
+        content: `<p>Let's take a look at specific new capabilities coming to iPads this fall.</p>
+<h2>Multitasking Improvements</h2>
+<p>iPads have become incredibly powerful over the past few years, but multitasking has been lackluster, making them feel inadequate as laptop replacements. </p>
+<p>That's changing now with the multitasking changes in iPadOS 26. Now apps support windowing, so you can have multiple apps on the screen in different sizes.</p>
+<p>Just resize them by dragging a corner of the app and arrange them wherever.</p>
+<p>There are native window tiling options—a flick to the left or right will tile apps to the sides for easier split-screen, and you can even split apps into thirds or quarters. </p>
+<p>The familiar traffic light buttons from macOS are also available now on apps, and if you press and hold them, you'll see more options to arrange apps with a tap. </p>
+<p>Swipe up and hold and your apps will spread out in Exposé mode, and you'll be able to revisit your grouped apps later even if you switch to a full-screen app. There's now also a menu bar you can pull down from the top in any app, though the available options will depend on the app.</p>
+<p>Best of all, iPadOS now lets you handle more tasks in the background. </p>
+<p>Previously, if you were rendering a file in Final Cut, you'd have to keep it open for the render to complete. Now, that task can be done in the background, allowing you to switch to other apps for a true multitasking desktop experience.</p>
+
+<h2>A Better Files App</h2>
+<p>The Files app has a new design that offers up more info at a glance. </p>
+<p>There are resizable columns, collapsible folders, and you can set default apps for opening specific file types. </p>
+<p>You can also customize folders with different colors and emojis to make them visually distinct. Speaking of, you can put folders in the dock for speedier access.</p>
+
+<h2>Preview App Comes to iPad</h2>
+<p>Apple's Preview app from macOS is now available on iPadOS, allowing you to open, edit, and mark up PDFs or images</p>
+<p>It works with the Apple Pencil, making it great for filling out text fields and signing documents.</p>
+
+<h2>Other Noteworthy Features</h2>
+<ul>
+    <li><strong>Phone : </strong> There's now a dedicated Phone app on iPad. Calls made to your iPhone can be routed so you can answer from the iPad, and you'll be able to take advantage of new features like live translation and call screening, too.</li>
+    <li><strong>Journal : </strong> The Journal app, originally an iPhone-exclusive app, is now on iPadOS. It now supports the Apple Pencil, so you can make your journal feel even more personal with your own handwriting.</li>
+    <li><strong>Audio Recording : </strong> There's a new input chooser that lets you pick the right microphone for each app, handy if you're connecting external mics to the iPad.</li>
+    <li><strong> Notes : </strong> You can capture conversations from the Phone app as audio recordings with transcriptions.</li>
+</ul>`,
+
+
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/iPadOS.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '40',
+        title: 'visionOS 26 introduces powerful new spatial experiences for Apple Vision Pro',
+        excerpt: 'Apple today previewed visionOS 26, an expansive update packed with groundbreaking spatial experiences and new features for Apple Vision Pro.',
+        content: `<p>Widgets become spatial and anchor in a user’s space, Personas are more expressive and realistic, and new APIs unleash exciting opportunities for developers, creators, and enterprises.</p>
+<p>Everyday interactions become more immersive and personal, with widgets that integrate into a user’s space, spatial scenes that use generative AI to add stunning lifelike depth to photos, striking enhancements that make Personas feel more natural and familiar, and shared spatial experiences for Vision Pro users in the same room.</p>
+<p>visionOS 26 also adds support for 180-degree, 360-degree, and wide field-of-view content from Insta360, GoPro, and Canon, while new enterprise APIs allow organizations to create spatial experiences unique to visionOS. And with support for PlayStation VR2 Sense controllers, players can enjoy a new class of games on Apple Vision Pro.</p>
+<p>“Apple Vision Pro has defined what’s possible in this new era of spatial computing, and with visionOS 26, we’re excited to push the boundaries even further,” said Mike Rockwell, Apple’s vice president of the Vision Products Group. </p>
+<p>“With brand-new ways for Vision Pro owners to connect, explore, work together, and enjoy content, we’re incredibly excited for users to enjoy features like apps and widgets that they can arrange in their spaces, spatial scenes that offer a brand-new viewing experience for their photos, and dramatically enhanced Personas on Vision Pro.”</p>
+
+<h2>Widgets Become Spatial</h2>
+<p>Across the Apple ecosystem, widgets offer personalized and useful information at a glance, and with visionOS 26, widgets become spatial, integrating seamlessly into a user’s space and reappearing every time they put on Apple Vision Pro. </p>
+<p>Widgets in visionOS 26 are customizable, with a variety of options for frame width, color, and depth. Beautiful new widgets — including Clock, Weather, Music, and Photos — all offer unique interactions and experiences.</p>
+<p>Users can decorate their spaces with favorite widgets, including stunning panoramas and spatial photos of their favorite memories, clocks with distinctive face designs, and quick access to their go-to playlists and songs on Apple Music.</p>
+<p>The Widgets app helps users find widgets, including those from compatible iOS and iPadOS apps, and developers will also be able to create their own widgets using Widget Kit</p>
+<p>All widgets — including Calendar, shown here — are customizable, with a variety of options for frame width, color, and depth.</p>
+
+<h2>Enhanced Shared Spatial Experiences</h2>
+<p>Users love how visionOS lets them connect with family, friends, and colleagues remotely, and with visionOS 26, they can share spatial experiences with other Apple Vision Pro users in the same room.</p>
+<p>They can come together to watch the latest blockbuster movie in 3D, play a spatial game, or collaborate with coworkers. </p>
+<p>Users can also add remote participants from across the world via FaceTime, enabling connection with people near and far.</p>
+<p>Dassault Systèmes, a leading provider of engineering and 3D design software, is leveraging this ability with their 3DLive app, bringing the ability to visualize 3D designs both in person and with remote colleagues.</p>
+<p>With visionOS 26, Personas are transformed to feel more natural and familiar. </p>
+<p>Taking advantage of industry-leading volumetric rendering and machine learning technology, the all-new Personas now have striking expressivity and sharpness, offering a full side profile view, and remarkably accurate hair, lashes, and complexion. </p>
+<p>Personas are still created on device in a matter of seconds, and new improvements to the setup process allow users to adjust and preview how their Persona looks spatially, and even pick glasses from over 1,000 variations.</p>
+
+<h2>Introducing Spatial Scenes</h2>
+<p>visionOS 26 makes spatial photos even more realistic, leveraging a new generative AI algorithm and computational depth to create spatial scenes with multiple perspectives, letting users feel like they can lean in and look around.</p>
+<p>Users can view spatial scenes in the Photos app, Spatial Gallery app, and Safari, while developers can use the Spatial Scene API to make their app experience even more immersive. Zillow is taking advantage of the API for their Zillow Immersive app, allowing users to see images of homes and apartments with the rich depth and dimension that spatial scenes offer.</p>
+
+<h2>New Ways to Browse, Play, and Watch</h2>
+<p>Users can select spatial browsing to transform articles on Safari, hide distractions, and reveal spatial scenes that come alive as they scroll. Web developers have the ability to embed 3D models directly into web pages, letting users shop and browse with depth and dimension, and see and manipulate 3D objects and models right in Safari.</p>
+<p>visionOS 26 supports native playback of 180-degree, 360-degree, and wide field-of-view content from Insta360, GoPro, and Canon.</p>
+<p>Users can enjoy their exciting 2D action footage the way it was meant to be seen. Developers can incorporate this new playback capability into their apps and websites.</p>
+
+<h2>Pause playback of video: Native Playback with visionOS 26</h2>
+<p>visionOS 26 also unlocks support for 180-degree, 360-degree, and wide field-of-view content from Insta360, GoPro, and Canon.</p>
+<p>visionOS 26 also introduces support for the PlayStation VR2 Sense controller. Now, developers can deliver even more engaging gameplay experiences for Apple Vision Pro thanks to high-performance motion tracking in 6 degrees of freedom, finger touch detection, and vibration support.</p>
+<p>Players will be able to enjoy a new class of games on Apple Vision Pro with support for PlayStation VR2 Sense controllers.</p>
+
+<h2>Enterprise APIs and Tools</h2>
+<p>Companies around the world are harnessing spatial computing on Apple Vision Pro to supercharge their workflows for design, training, sales, education, and more. </p>
+<p>New capabilities like team device sharing let organizations easily set up and manage a shared pool of devices. Users can securely save their eye and hand data, vision prescription, and accessibility settings to their iPhone running iOS 26 and bring it to another Vision Pro, making sharing easier than ever.</p>
+<p>visionOS 26 adds support for Logitech Muse, a spatial accessory built for Apple Vision Pro that enables precise input and new ways to interact with collaboration apps like Spatial Analogue.</p>
+
+
+
+<h2>Pause playback of video : Logitech Muse and visionOS 26</h2>
+<p>Logitech Muse is a spatial accessory that will enable precise input and new ways to interact with collaboration apps like Spatial Analogue.</p>
+<p>Enterprise-focused APIs, like the new Protected Content API, ensure that only people who have been granted access can see confidential materials like medical records or business forecasts, while preventing copying, screenshots, and screen sharing.</p>
+
+<h2>Additional visionOS 26 features include : </h2>
+<ul>
+    <li>More Apple Intelligence features — including updates to Image Playground — come to Apple Vision Pro. visionOS 26 also adds support for new languages: French, German, Italian, Japanese, Korean, and Spanish, along with support for English in Australia, Canada, India, Singapore, and the UK.</li>
+    <li>Look to Scroll allows users to explore apps and websites using just their eyes. Users can customize the scroll speed, and developers can integrate Look to Scroll into their visionOS apps.</li>
+    <li>In the redesigned Control Center, features like Guest User, Focus, Travel Mode, and more are conveniently displayed in one view, letting users effortlessly manage their music, adjust their Environment settings, and connect to Mac Virtual Display.</li>
+    <li>Users can unlock their iPhone while wearing Apple Vision Pro, even in a fully immersive experience like an Environment. This feature can be enabled in Settings for Face ID-enabled iPhone models running iOS 26.</li>
+    <li>visionOS 26 supports relaying calls from iPhone, so a user can now answer phone calls directly from Apple Vision Pro, or start a call from People View by selecting a contact’s phone number or clicking on a phone number in a web page.</li>
+    <li>Home View now supports folders, letting users rearrange and group apps together.</li>
+    <li>New Apple Intelligence features arriving in visionOS 26 include Image Playground updates and support for new languages.</li>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/visionOS.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '41',
+        title: 'Apple TV brings a beautiful redesign and an enhanced entertainment experience to the home',
+        excerpt: 'tvOS 26 elevates the Apple TV design featuring Liquid Glass, along with updates to Sing in Apple Music with iPhone',
+        content: `<p>Apple today announced tvOS 26, making Apple TV even more immersive, enjoyable, and convenient.</p>
+<p>Featuring a stunning new design with Liquid Glass, tvOS 26 is designed to keep the focus on what’s playing so users never miss a moment. The Apple TV app also now showcases cinematic poster art that makes it fun and easy to discover what to play next. </p>
+<p>Enhancements to profile-switching and a streamlined way to log in to apps make it easier than ever to access entertainment, while updates to Apple Music Sing bring users new ways to enjoy singing along with friends using iPhone.</p>
+
+<h2>Liquid Glass Comes to the Largest Screen in the Home</h2>
+<p>The new design introduces a new material called Liquid Glass.1 It brings a vibrant look to Apple TV, delivering a fresh and expressive design that beautifully reflects and refracts its surroundings using real-time rendering. Interactions with the Apple TV app are also enhanced to create a more delightful and engaging experience while watching shows and movies.</p>
+<p>The new design keeps the content central to the viewing experience while fast-forwarding or rewinding, starting a sleep timer, adjusting audio, or setting a “Movie night” scene in Control Center.</p>
+<p>Liquid Glass allows the video to remain front and center when starting a sleep timer, adjusting audio, or setting a “Movie night” scene in Control Center.</p>
+<p>tvOS 26 is designed to keep the focus on what’s playing so users never miss a detail.</p>
+
+<h2>Easily Access Entertainment</h2>
+<p>The Apple TV app is redesigned with beautiful new poster art that incorporates Liquid Glass, and allows more shows and movies to be displayed, enhancing how users discover entertainment.</p>
+<p>The Apple TV app features new poster art that allows more shows and movies to be displayed, enhancing how users discover entertainment.</p>
+<p>To quickly find personalized viewing recommendations, users will now have the choice to automatically display profiles when Apple TV wakes, allowing them to quickly get back to their recommendations and </p>
+
+<h2>Watchlist in the TV app and playlists in Apple Music.</h2>
+<p>Users will now have the choice to automatically display profiles when Apple TV wakes, allowing them to quickly get back to their Watchlist.</p>
+<p>Additionally, tvOS 26 introduces a new API for developers that links app logins to an Apple Account, making it effortless for users to sign in to their favorite apps, shows, and movies when setting up a new device.</p>
+
+<h2>Take the Mic with Sing in Apple Music</h2>
+<p>Sing-along sessions reach a new level of fun with tvOS 26, allowing users to transform iPhone into a handheld microphone for Apple TV and have their voices amplified as they belt out their favorite songs.</p>
+<p>Get the party started with friends, as everyone can jump in using their own iPhone to queue up songs or react with onscreen emoji. Accompanied by real-time lyrics and visual effects that light up the big screen, Sing in Apple Music is more engaging than ever, and with Lyrics Translation and Pronunciation, users can follow and sing along to an even wider variety of songs, even if they don’t know the language.</p>
+<p>Sing-along sessions reach a new level of fun with tvOS 26, transforming iPhone into a handheld microphone that amplifies voices through the TV.</p>
+
+
+<h2>Stay Connected with FaceTime</h2>
+<p>With tvOS 26, users can enjoy a more personalized FaceTime experience that’s consistent with iOS.</p>
+<p>Contact Posters on Apple TV make it easier and more personal by displaying a contact’s customized photo and name when starting a FaceTime call on Apple TV. Live Captions expand to include French, German, Japanese, Korean, Mandarin, and Spanish, enabling Apple TV to use on-device intelligence to display Live Captions for FaceTime conversations, so users can follow what’s being said in even more languages.</p>
+<p>Additionally, FaceTime audio and phone call notifications will appear onscreen for the active profile, allowing users to answer on connected HomePod speakers or their iPhone, and ensuring that communication with loved ones remains at the forefront.</p>
+
+<h2>Additional updates coming to Apple TV : </h2>
+<li>Enjoy breathtaking landscapes with new Aerial screen savers captured across India, including in Goa and Kerala.</li>
+<li>Personalize the screen saver experience by choosing specific Cityscape, Earth, Landscape, or Underwater Aerials to display — or hide.</li>     
+<li>Designate any AirPlay-enabled speaker as the permanent speaker for Apple TV.</li>
+</ul>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/tvOS26.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '42',
+        title: 'watchOS 26 delivers more personalized ways to stay active, healthy, and connected',
+        excerpt: 'A new software design makes using Apple Watch even more delightful, Workout Buddy brings a first-of-its-kind workout experience with Apple Intelligence, and the Smart Stack and Messages are more intelligen',
+        content: `<p>Apple today previewed watchOS 26, offering a beautiful new look and even more intelligence for a more personalized experience, to support users in staying active, healthy, and connected.</p>
+<p>Apple Intelligence enhances the fitness experience with Workout Buddy, which provides personalized, spoken motivation. </p>
+<p>The Workout app features a new layout, and offers music to listen to based on a user’s tastes and the workout type. watchOS 26 makes everyday interactions even more convenient with Smart Stack hints and updates to Messages, and introduces a new one-handed wrist flick gesture to easily dismiss notifications.</p>
+<p>“Apple Watch is an indispensable companion for millions of people around the world, and watchOS 26 uses intelligence to offer an even more personalized experience,” said David Clark, Apple’s senior director of watchOS Engineering. </p>
+<p>“From a gorgeous new design, to Workout Buddy with Apple Intelligence, personalized music suggestions in the Workout app, and more intelligence in the Smart Stack and Messages, we’re excited about the many ways watchOS 26 will support each user in staying active, healthy, connected, and safe throughout their day.”</p>
+
+<h2>A Beautiful Design</h2>
+<p>A gorgeous new software design with Liquid Glass brings a fresh look to watchOS 26.</p>
+<p>Across apps, this new design enables a vibrant and expressive experience that reflects and refracts content using real-time rendering, which brings even more focus to content and makes using Apple Watch even more delightful.</p>
+<p>Smart Stack widgets, Smart Stack hints, notifications, Control Center, and in-app controls and navigation will adopt the new design. The popular Photos watch face is enhanced with numerals made of Liquid Glass, allowing users to see even more of their photo.</p>
+<p>The updated Photos watch face is shown on Apple Watch.
+The Smart Stack is shown on Apple Watch.
+Updated controls in the Music app are shown on Apple Watch.</p>
+
+<h2>Apple Intelligence Comes to Fitness with Workout Buddy</h2>
+<p>Workout Buddy is a first-of-its-kind fitness experience with Apple Intelligence that incorporates a user’s workout data and their fitness history to generate personalized, motivational insights during their session, based on data like heart rate, pace, distance, Activity rings, personal fitness milestones, and more.</p>
+<p>For example, as a user starts a run, Workout Buddy will give a personalized pep talk that may remind them of their running mileage for the week so far, or share how they are doing against their Activity ring goals: “Way to get out for your run this Wednesday morning. You’re 18 minutes away from closing your Exercise ring. So far this week, you’ve run 6 miles. You’re going to add to that today.”</p>
+<p>During the workout, Workout Buddy can mark key moments like their mile splits, or tell them if they hit a new milestone based on their fitness history: “Mile four. You picked up the pace and ran that last one in 8 minutes and 28 seconds.” “Hey, check this out. Your total running distance for the year just crossed the 200-mile mark! That’s a lot of running!”</p>
+<p>When a user ends a workout, Workout Buddy will recap their workout stats and congratulate them on their achievements: “Way to get your workout in! You went 4.3 miles in just over 38 minutes. </p>
+<p>Your average pace was 8 minutes and 58 seconds, and your average heart rate was 128. That was your longest run of the last 28 days. What will you do next?”</p>
+<p>To offer meaningful inspiration in real time, Workout Buddy analyzes data privately and securely, with Apple Intelligence. A new text-to-speech model then translates insights into a dynamic generative voice built using voice data from Fitness+ trainers, so it has the right energy, style, and tone for a workout.</p>
+<p>Workout Buddy will be available on Apple Watch with Bluetooth headphones, and requires an Apple Intelligence-supported iPhone nearby.</p>
+<p> It will be available starting in English, across some of the most popular workout types: Outdoor and Indoor Run, Outdoor and Indoor Walk, Outdoor Cycle, HIIT, and Functional and Traditional Strength Training.</p>
+
+<h2>Additional Updates to the Workout Experience</h2>
+<p>The Workout app is one of the most popular apps on Apple Watch, and in watchOS 26, it debuts the biggest update to its layout and navigation since its introduction.</p>
+<p>Four new buttons in the corners of the app make it easier for users to access their favorite features to customize workouts, like Workout Views, Custom Workout, Pacer, Race Route, and more.</p>
+<p>To add inspiration, users can set up music and podcasts right in the Workout app to automatically play when they start a workout. For users’ convenience, Apple Music can now select the best playlist for a user’s workout based on the workout type and their personal tastes.</p>
+<pAlternatively, users can see suggestions for playlists or podcasts based on what they’ve recently listened to during that particular workout type.</p>
+
+<h2>The Smart Stack Becomes Even More Proactive</h2>
+<p>The Smart Stack is designed to help users quickly access important information from any watch face. </p>
+<p>In watchOS 26, the Smart Stack improves its prediction algorithms by incorporating more contextual data, sensor data, and data from a user’s routine to provide Smart Stack hints, a proactive prompt for actionable suggestions that are immediately useful. </p>
+<p>Made of Liquid Glass, Smart Stack hints will appear on the display as a gentle visual prompt.</p>
+<p>For example, a hint for Backtrack may appear when a user is in a remote location with no connectivity, or a hint for a Pilates workout may show up when a user arrives at a studio location at their usual time.</p>
+
+<h2>Added Convenience in Messages</h2>
+<p>Apple Watch now supports Live Translation in Messages with Apple Intelligence, allowing incoming texts to be automatically translated into a user’s preferred language, right on their wrist.</p>
+<p>And when the user responds, their texts can be instantly translated for the person they’re having a conversation with. Live Translation will be available on Apple Watch Series 9, Apple Watch Series 10, and Apple Watch Ultra 2, with an Apple Intelligence-supported iPhone.</p>
+<p>Additionally, for users whose device language is set to English, Apple Watch will intelligently suggest relevant actions in Messages using the context of a conversation, like starting a Check In when a friend asks a user to share when they arrive home, or using Apple Cash when a user is asked to contribute to a group gift. </p>
+<p>Customizable Backgrounds set on iPhone will also appear on Apple Watch to make conversations feel more personal and distinct, and users can respond to polls right on their wrist. </p>
+<p>Smart Replies get even more precise for users whose device language is set to English, with an improved on-device language model that can generate relevant responses based on the content of a conversation.</p>
+<p>In Messages, customizable Backgrounds make conversations feel more personal and distinct. Additionally, Apple Watch will intelligently suggest relevant actions in Messages using the context of a conversation.</p>
+
+<h2>Notifications Are Easier to Manage</h2>
+<p>Notifications are even easier to manage with a simple wrist flick gesture on Apple Watch Series 9, Apple Watch Series 10, and Apple Watch Ultra 2. </p>
+<p>When a user raises their wrist to check a notification but isn’t ready to respond, they can quickly turn their wrist over and back to dismiss the notification. </p>
+<p>The wrist flick gesture can be used to dismiss notifications and incoming calls, silence timers and alarms, and return to the watch face.</p>
+<p>It uses the accelerometer and the gyroscope — along with a machine learning model — to analyze a user’s wrist movement. </p>
+<p>Wrist flick joins the double tap gesture to allow users to do even more on Apple Watch with only one hand, for times when the user’s other hand is occupied, such as when walking the dog, cooking, or holding a cup of coffee.</p>
+<p>Notifications are now even easier to manage with a simple wrist flick gesture. When a user raises their wrist to check a notification but isn’t ready to respond, they can quickly turn their wrist over and back to dismiss the notification.</p>
+<p>Apple Watch can also now automatically adjust the speaker volume based on the ambient noise in a user’s surroundings for notifications, timers, alarms, incoming calls, and Siri, allowing them to stay connected without worrying about disturbing those around them.</p>
+        
+<h2>Additional updates in watchOS 26 : </h2>
+<ul>
+    <li>The Notes app comes to Apple Watch, allowing users to access their notes right on their wrist. Users can also pin and unlock notes, complete checklist items, and create new notes with Siri, dictation, and the keyboard.</li>
+    <li>Hold Assist and Call Screening come to the Phone app, when an iPhone is nearby. When a user is waiting for a live agent, Hold Assist recognizes once a live agent is available and notifies the user to return to the call.5 Call Screening helps users manage incoming phone calls from unknown numbers more efficiently by collecting a name and reason for the call before their phone rings, so they can make an informed decision on whether to pick up, decline the call, or ask for more information</li>
+    <li>For users who are deaf or hard of hearing, Live Listen controls come to Apple Watch with a new set of features, including real-time Live Captions of what their iPhone hears on a paired Apple Watch while listening to the audio.</li>
+    <li>Apple Watch serves as a remote control to start or stop Live Listen sessions on a paired iPhone, or jump back into a session to capture something that may have been missed.</li>
+    <li>The Photos face will now shuffle images based on Featured content from Photos, so users can see images of their most meaningful moments every time they raise their wrist or tap the display.</li>
+    <li>Users can now explore and discover watch faces more easily with the redesigned watch face gallery on Apple Watch and in the Watch app on iPhone, with faces grouped into collections.</li>
+
+<ul>
+
+<h2>New Tools for Developers</h2>
+<ul>
+    <li>Developers are able to take advantage of new APIs in watchOS 26 across design, the Smart Stack, and more. </li>
+    <li>Developers can use new SwiftUI APIs to adopt the beautiful new design materials of watchOS 26. </li>
+    <li>With the Control Widget API, developers can create custom controls to be added to the Control Center, Action Button, or Smart Stack widget, and the Smart Stack Relevance API allows third-party widgets to be added to the Smart Stack with new signals like Points of Interest, with user permission to incorporate location data.
+        For example, the Smart Stack can intelligently show a widget for Slopes when users arrive at a ski resort with improved location APIs, and now Dark Noise can add a custom control to Control Center so users can easily turn on a sleep soundscape without picking up their iPhone.
+    </li>
+    <li>The Smart Stack is shown on a user’s Apple Watch.</li>
+    <li>The Control Center is shown on a user’s Apple Watch.</li>
+    <li>The Smart Stack Relevance API allows third-party widgets to be added to the Smart Stack with new signals like Points of Interest. For example, the Smart Stack can intelligently show a widget for Slopes when users arrive at a ski resort with improved location APIs.</li>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/watchOS.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '43',
+        title: 'Norway has introduced the world’s first wireless charging road for electric vehicles (EVs) in Trondheim.',
+        excerpt: 'This project, developed by the Israeli company Electreon Wireless, represents a major advancement toward greener transportation.',
+        content: `<p>The wireless charging road includes a 100-meter section with special copper coils buried under the surface. These coils create a magnetic field that transfers energy wirelessly to EVs equipped with compatible receivers. </p>
+<p>The system supports both dynamic charging (while vehicles are moving) and static charging (when vehicles are parked).</p>
+<p>The main goal of this initiative is to improve the efficiency and eco-friendliness of public transport. Electric buses can now charge while they are operating, which eliminates the need for frequent charging stops. </p>
+<p>This enhancement boosts operational efficiency and helps reduce carbon emissions, aligning with Norway’s goal of achieving a zero-emission transport sector by 2025.</p>
+<p>The pilot phase of the project began in June 2023 and will involve about a year of testing.</p>
+<p>During this time, three electric buses from Chinese manufacturers Yutong and Higer will be evaluated under Trondheim’s real-world conditions, including its harsh winter weather.</p>
+<p>The Norwegian government is funding the project with an estimated budget of 22.4 million Norwegian kroner (around $2.12 million USD). </p>
+<p>This initiative involves collaboration between various partners, including Electreon Wireless and the Chinese bus makers, highlighting the importance of teamwork in driving innovation.</p>
+<p>If the pilot project proves successful, it could lead to the broader adoption of wireless charging roads across Norway and potentially inspire similar projects worldwide.</p>
+<p>The long-term vision includes establishing a comprehensive Electric Road System in Trondheim that would serve various types of vehicles, including buses, electric trucks, and taxis.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 9, 2025',
+        image: 'images/ev.jpg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Evs'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '44',
+        title: 'The new superyacht, called Earth 300, will be free for scientists hoping to clean up our oceans and combat climate change.',
+        excerpt: 'It may look like something from the new James Bond film, but the Earth 300 is a nuclear-powered superyacht with bold ambitions.',
+        content: `<p>Although it hasn’t been built yet, this carbon-free yacht is designed as a travelling laboratory for scientists to explore the oceans and tackle today’s biggest environmental problems.</p>
+<p>With room for 22 laboratories, 160 scientists and 20 students, the yacht will be powered by a Molten Salt Reactor - a new type of nuclear power that is 100 per cent emission-free.</p>
+<p>There’s room for tourists, but at a price.</p>
+<p>Designed by superyacht expert Ivan Salas Jefferson, the Earth 300 will also have room for 40 VIP guests who will pay a whopping $3 million (€2.5 million) for the pleasure of staying aboard the vessel. Scientists and students will either travel for free or at a reduced rate.</p>
+<p>There is room for 22 laboratories, 160 scientists and 20 students on board.Earth 300
+“We want to build a global icon for science, designed as a scientific sculpture on the seas, to capture people’s attention and inspire their imagination,” says Aaron Olivera, the CEO of Earth 300. The company hopes the superyacht will be ready to set sail in 2025.
+</p>
+<p>Demand for superyachts has rocketed in the past 10 years, spurred on by the COVID-19 pandemic and the increase of the global ‘super rich’. The Earth 300 will be the biggest of the lot though, at 300 metres in length and 60 metres in height. That’s 31m longer than the Titanic.</p>
+<p>With a futuristic, architectural design, the boat will include state-of-the-art weather visualisation labs, 3D printing labs and biosafety labs designed to handle viruses like COVID-19, according to Oliveria.</p>
+<p>The Earth 300 will be the biggest of the lot though, at 300 metres in length and 60 metres in height. That’s 31m longer than the Titanic.</p>
+<p>"Earth 300 will use global systems thinking, aboard the vessel we will explore the broadest spectrum of standpoints, bringing together the smartest and brightest minds to create an intelligence collective that is unrivalled in scope and diversity,” says Oliveria.</p>
+<p>“It will hold 4 different communities - scientists, experts, students and private citizens.” It is this mix of citizens and scientists that the team hopes will produce radical new thinking in the fight against climate change.</p>
+<p>The yacht will eventually be powered by a Molten Salt reactor.Earth 300
+Is the technology ready yet?</p>
+<p>While the design of the Earth 300 is a futuristic one, much of the technology required has not come to market yet. Initially, the yacht will be powered by green fuels, as the Molten Salt Reactor is still in development. The reactor is being developed by Terrapower, a company backed by Microsoft billionaire Bill Gates.</p>
+<p>Once it is ready, the reactor will be retrofitted, allowing the superyacht to be 100 per cent emission-free.</p>
+<p>Inspired by dying coral reefs
+Oliveria, who has a background in developing luxury resorts, was inspired to create the Earth 300 after going for a dive in the Maldives.</p>
+<p>After seeing the dying corals, he realised the world didn’t need another elite resort. Oliveria decided to change tack to work on the Earth 300, combining luxury travel and climate fighting science all in one place.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/nuclear-yatch.jpeg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '45',
+        title: 'A drone that detects disease in crops — just by scanning plants from above',
+        excerpt: 'This Drone sees sick plants before humans can and could save crops from devastating disease outbreaks',
+        content: `<p>Agricultural researchers in Denmark have developed a powerful drone-based system that can detect plant diseases days before any visible symptoms appear.</p>
+<p>Using hyperspectral imaging and AI, the drone scans large crop fields and identifies subtle signs of infection — often invisible to the human eye.</p>
+<p>The drone captures over 300 bands of light across the electromagnetic spectrum, far beyond the range of standard cameras. </p>
+<p>When combined with machine learning models trained on thousands of diseased and healthy plants, it can accurately spot infections as early as 48 hours after onset.</p>
+<p>This system has already shown success in detecting early signs of wheat rust, grapevine mildew, and potato blight — all of which cost billions in lost yields annually.</p>
+<p>Early detection means farmers can isolate affected zones quickly and avoid spraying entire fields unnecessarily.</p>
+<p>Beyond disease, the drones can also monitor plant stress, nutrient levels, and irrigation needs. </p>
+<p>They offer farmers a full aerial diagnosis of their crops — reducing pesticide use, saving water, and boosting yield through precision farming.</p>
+<p>What makes this breakthrough especially timely is its scalability. The system is drone-agnostic, meaning it can be fitted to existing agricultural drones with only minor modifications. This opens the door for global deployment across farms of all sizes.</p>
+<p>The future of farming may not just lie in the soil — but in the sky, watching every leaf with precision unseen until now.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/drones.png?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '46',
+        title: 'A camera smaller than a grain of salt can now take full-color, HD photos inside your body',
+        excerpt: 'Researchers have developed a microscopic camera so small it can be inserted into the human bloodstream — and it produces full-color, high-resolution images from inside the body.',
+        content: `<p>It could change how we detect cancer, infections, and even microscopic injuries.</p>
+<p>The sensor, just half a millimeter wide, uses a new type of metasurface lens that bends light precisely onto a photodetector array.</p>
+<p>This allows it to capture detailed images despite its tiny size, and it does it without needing bulky lenses or focusing mechanisms.</p>     
+<p>This mini-camera was built by scientists at Princeton and the University of Washington, and it's powered through ultra-thin wires or wireless pulses. </p>
+<p>Once inserted into tissue or vessels, it sends live images that doctors can view in real time — like a body-wide endoscope.</p>
+<p>The team tested the camera on live tissue and observed individual cells and capillaries without needing contrast dye. </p>
+<p>his could mean earlier detection of tumors, internal bleeding, or cell abnormalities — all with less invasive procedures.</p>
+<p>Even more impressively, the camera can be manufactured using standard chip production methods, meaning it could be made cheaply and in large numbers. </p>
+<p>Think disposable diagnostic cameras that patients could swallow, wear, or implant for short periods.</p>       
+<p>t’s not science fiction. It’s the beginning of microscopic diagnostics — from inside your own bloodstream.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/lab.jpg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '47',
+        title: 'Swedish scientists made a fabric that powers devices using your body heat  and it’s machine washable',
+        excerpt: 'The future of wearable energy just got woven into a thread.',
+        content: `<p>Engineers at Chalmers University have developed a textile that converts body heat into electricity — and it can be washed, folded, and stitched just like regular cloth.</p>
+<p>The fabric uses a layered thermoelectric composite made of flexible polymers and silver nanowires. </p>
+<p>It’s extremely light, but highly sensitive to temperature differentials. When worn, even the small heat gradient between your skin and the air is enough to generate usable microcurrents.</p>
+<p>In real-world tests, a single scarf made from this fabric powered a smartwatch for six hours — just from a brisk winter walk.</p>
+<p>he team says it’s ideal for health sensors, GPS trackers, and emergency wearables that can’t rely on batteries.</p>       
+<p>What’s most impressive is its durability. Previous attempts at thermoelectric clothing suffered from stiffness or breakdown after washing. </p>
+<p>But this new blend holds its conductivity through 50+ wash cycles, and it feels like a soft cotton-linen hybrid.</p>
+<p>The researchers are now working with Nordic defense agencies to outfit arctic personnel with heat-harvesting uniforms — turning body warmth into survival power during long missions.</p>
+<p>Your jacket may soon be more than insulation. It might be your backup battery.</p>`,       
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/engineers.png?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '48',
+        title: 'Scientists Create Solar Panels That Work at Night By Harvesting Infrared Light',
+        excerpt: 'Solar power has a weakness: darkness. But now, researchers at Stanford University have developed a solar cell that doesn’t just stop when the sun goes down — it keeps going.',
+        content: `<p>This breakthrough panel uses a thermoelectric generator to harvest energy from the infrared radiation the Earth emits at night.</p>       
+<p>The principle behind it is surprisingly elegant.</p>
+<p> During the day, the solar panel collects sunlight like any other. But after sunset, the heat absorbed by the Earth during the day radiates back into space. This creates a tiny temperature difference between the panel and the surrounding air — and that difference generates electricity.</p>
+<p>Though the power levels are modest right now, they’re enough to run low-power sensors or lighting in off-grid locations.</p>
+<p>Crucially, this opens the door to 24-hour renewable energy in places where battery storage is expensive or impractical.</p>
+<p>The device is completely passive — it doesn’t need moving parts or complex mechanisms.</p>
+<p>It just uses temperature gradients and advanced materials to extract usable current from the dark. It's silent, stable, and incredibly durable.</p>
+<p>This could revolutionize how solar power is deployed in developing regions, remote islands, and space applications. Imagine sensors that never need battery swaps, or homes in off-grid villages lit entirely by sun and starlight.</p>
+<p>As the materials improve, these nocturnal panels could pair with conventional ones for around-the-clock clean energy — without waiting for sunrise.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/solar.jpg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '49',
+        title: 'Worlds First Genetically Modified Spider Produces Glowing Red Silk Threads',
+        excerpt: 'Scientists from the University of Bayreuth in Germany have successfully created the world’s first gene-edited spider that produces glowing red silk threads.',
+        content: `<p>Using CRISPR-Cas9 gene editing, they inserted a red fluorescent protein gene (mRFP) directly into the silk-producing genes of the common house spider (Parasteatoda tepidariorum).</p>       
+<p>As a result, some offspring were able to spin fluorescent red silk, visible under UV light—a strong sign that the gene modification worked precisely.</p>
+<p>This breakthrough is the first time CRISPR has been used to achieve a gene "knock-in" in spiders, and it demonstrates that functional proteins can be genetically embedded into silk threads.</p>
+<p>In the same study, researchers also knocked out a gene responsible for eye development, causing spiders to hatch without eyes—further proving the precision of their genetic editing method.</p>
+<p>The research was published in the peer-reviewed journal Angewandte Chemie and has received international attention.</p>
+<p>Funded by organizations including the U.S.</p>
+<p>Navy and Air Force, the project could lead to supermaterials for use in defense, aerospace, textiles, and biomedicine—such as biodegradable sensors or stronger-than-steel fibers.</p>
+<p>In summary, this marks a significant leap in bioengineering and spider silk research, unlocking future possibilities to design silk with custom traits directly within spiders themselves.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/ai-bots.jpg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '50',
+        title: 'United States Fires Most Powerful Laser Ever, Reaching 100 Times the Power of Global Electricity Consumption',
+        excerpt: 'The United States has achieved a major milestone in laser science with the activation of the ZEUS laser at the University of Michigan.',
+        content: `<p>This system released a pulse of energy reaching 2 petawatts (2 quadrillion watts), but only for a brief duration of 25 femtoseconds (25 millionths of a billionth of a second).</p>
+<p>This immense power output makes it the most powerful laser ever fired, measured by peak power.</p>
+<p>The phrase “100 times the power of global electricity use” refers to how, during that split-second, the laser's power output temporarily exceeds the combined electricity usage of the entire world.</p>
+<p>However, this power is not continuous; it’s a burst used for extremely short, controlled experiments.</p>
+<p>ZEUS is designed to explore some of the most extreme environments in physics.</p>
+<p>It enables cutting-edge research in plasma interactions, space particle simulations, and vacuum-based quantum phenomena.</p>
+<p>Unlike conventional lasers, ZEUS is not built for energy supply, but for pushing the boundaries of high-energy physics and understanding the fundamental nature of matter and energy.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/nuc.jpg?w=800&h=600&fit=crop',
+        tags: ['Technology', 'Innovation', 'Science', 'US'],
+        featured: false,
+        trending: false
+    },
+
+
+
+
+
 ];
 
 // Global state
