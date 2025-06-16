@@ -1577,7 +1577,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/iPadOS.jpg?w=800&h=600&fit=crop',
+        image: 'https://www.apple.com/v/os/a/images/ipados/welcome/welcome_ipados_hw__bbdq6tfwzhnm_large.png?w=800&h=600&fit=crop',
         tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
         featured: false,
         trending: false
