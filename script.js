@@ -1,8 +1,144 @@
 // Sample data for articles
 const articles = [
+    {
+        id: '1',
+        title: 'macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever',
+        excerpt: 'Introducing a stunning new design, more Continuity experiences with the Phone app, the biggest update to Spotlight ever, and expanded Apple Intelligence capabilities',
+        content: `<p>macOS Tahoe 26 introduces a beautiful new design, additional Continuity experiences, along with even more features to turbocharge productivity.</p>
+<p>Apple today previewed the next major macOS release — macOS Tahoe 26 — which introduces a stunning new design and powerful capabilities that enable users to get even more done. </p>
+<p>With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars.</p>
+<p>Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. </p>
+<p>Continuity gets even better with the Phone app arriving on Mac, so users can access familiar features from iPhone — including Recents, Contacts, and Voicemails — and new ones like Call Screening1 and Hold Assist.</p>
+<p>Spotlight gets its biggest update ever, allowing users to now directly execute hundreds of actions — like sending an email or creating a note — and take advantage of all-new browsing experiences to get to content faster.</p>
+<p>Apple Intelligence expands with powerful new features that elevate the Mac experience further, while protecting privacy at every step. Live Translation helps users easily communicate across languages, translating text and audio.</p>
+<p>Genmoji and Image Playground offer new options for creativity.3 Shortcuts get even more powerful with intelligent actions and the ability to now tap directly into Apple Intelligence models to automate complex tasks.</p>
+<p>“macOS is the heart and soul of the Mac, and with Tahoe, we’re building on what users love most. Whether you’re a power user or just getting started on Mac, there’s something for everyone, with even more features to turbocharge productivity and make working across Mac and iPhone more seamlessly than ever before,” said Craig Federighi, Apple’s senior vice president of Software Engineering.</p>
+<p>“With its gorgeous new design, amazing Continuity with the Phone app, powerful enhancements to Spotlight, more intelligent shortcuts, and updates to Apple Intelligence, the Mac experience is better than ever.”</p>
+
+<h2>A Gorgeous New Design</h2>
+<p>The gorgeous new design enhances the Mac experience in new ways, while maintaining the familiarity of macOS.</p>
+<p>It is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings.</p>
+<p>The Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content. The menu bar is now completely transparent, making the display feel even larger.</p>
+<p>There are more ways to customize what controls appear in the menu bar and Control Center, along with how they’re laid out. The new design also unlocks more personalization on the Mac.</p>
+<p>App icons come to life in light or dark appearances, colorful new light and dark tints, as well as an elegant new clear look.</p>
+<p>Users can also change the colors of folders and add a symbol or emoji to give them a unique identity. And when combined with personalized wallpapers and theme colors, it’s easier than ever to make Mac a seamless extension of a user’s style.</p>
+<p>The new design elevates iconic elements of macOS, making them at once fresh and timelessly Mac. From the moment a user unlocks their Mac, the desktop is instantly familiar.</p>
+
+
+<h2>Continuity gets even better with the Phone App on Mac </h2>
+<p>The Phone app arrives on Mac thanks to Continuity, which lets users relay cellular calls from their nearby iPhone.</p>
+<p>The Phone app on Mac has the familiar features of the Phone app on iPhone — including Recents, Favorites, and Voicemails — and the latest updates like Call Screening and Hold Assist. </p>
+<p>Call Screening automatically answers calls from unknown numbers and asks the caller for information so a user can decide whether or not to answer.</p>
+<p>And when a user is stuck on hold, Hold Assist allows them to keep their spot in line while they wait for a live agent, so users can continue working on their Mac.</p>
+<p>With the new Phone app for Mac, users can conveniently access familiar content — like Recents, Contacts, and Voicemail — synced from iPhone, and easily make a call with a click.</p>
+
+
+<h2>The Biggest Update Ever to Spotlight</h2>
+<p>Spotlight, the central place to search for things on Mac, makes finding what users are looking for easier than ever, and provides users with all-new ways to take action.</p>
+<p>During a search, all results — including files, folders, events, apps, messages, and more — are now listed together and ranked intelligently based on relevance to the user. </p>
+<p>New filtering options rapidly narrow searches to exactly what a user is looking for, like PDFs or Mail messages. Spotlight can also surface results for documents stored on third-party cloud drives.</p>
+<p>And when a user doesn’t know exactly what they’re searching for, Spotlight’s new browse views make it easy to scan through their apps, files, clipboard history, and more.</p>
+<p>All of a user’s apps are now on view in Spotlight.</p>
+<p>Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps.</p>
+<p>Users can take actions from both Apple apps and apps built by developers, because any app can provide actions to Spotlight using the App Intents API. </p>
+<p>Users can also run shortcuts and perform actions from the menu bar in the app they’re currently working in, all without lifting their hands off the keyboard. Spotlight learns from users’ routines across the system and surfaces personalized actions, such as sending a message to a colleague a user regularly talks to.</p>
+<p>Additionally, Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
+<p>Items from the menu bar for the app a user is currently working in are searchable in Spotlight.</p>
+<p>Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
+
+
+<h2>Brand-New Capabilities Powered by Apple Intelligence</h2>
+<p>Apple Intelligence, the personal intelligence system that delivers helpful and relevant intelligence, gets even more capable while protecting users’ privacy at every step.</p>
+<ul>
+    <li><strong>Seamless communication across language barriers with Live Translation : </strong>
+        In Messages, Live Translation can automatically translate messages, so if a user is making plans with new friends while traveling abroad, their message can be translated as they type and delivered in the recipient’s preferred language.
+        And when the user receives a response, each text can be instantly translated.
+        On FaceTime, a user can follow along with translated live captions while still hearing the speaker’s voice. And when a user is on a call in the Phone app, their words are translated for the recipient as they speak.
+        This is enabled by Apple-built models that run entirely on device, so conversations stay private.
+    </li>
+    <li><strong>Shortcuts get more intelligent : </strong>
+        A whole new class of intelligent actions lets users create shortcuts that are more powerful than ever, including summarizing text with Writing Tools and creating images with Image Playground. 
+        And now users will be able to tap directly into Apple Intelligence models, either on-device or with Private Cloud Compute, to generate responses that feed into the rest of their shortcut, maintaining the privacy of information used.
+        For example, a student can build a shortcut that uses Apple Intelligence models to compare an audio transcription of a class lecture to the notes they took, and add any key points they may have missed. 
+        Users can also choose to tap into ChatGPT for its broad world knowledge and expertise. 
+        Additionally, users can now run shortcuts automatically on macOS, such as at a specific time of day, or when taking a specific action like saving a file to a folder or connecting a display.
+    </li>
+    <li><strong>Updates to Genmoji and Image Playground : </strong>
+        macOS Tahoe brings new ways to create Genmoji, giving users the ability to start with existing emoji and descriptions, modify personal attributes like hair length or accessories, and select expressions based on the moment.
+        Users will also have more control of personal attributes and expressions in Image Playground, and can tap into brand-new styles with ChatGPT, like an oil painting style or vector art. 
+        For moments when users have a specific idea in mind, they can tap Any Style and describe exactly what they want.
+    </li>
+    <li><strong>Increased productivity with Reminders : </strong>
+        Apple Intelligence can review an email, website, note, or other content on Mac to find the most relevant action items. 
+        And users can also choose to use Apple Intelligence to automatically categorize Reminders into sections to make them more manageable.
+        Live Translation on FaceTime helps users communicate across languages by following along with translated live captions while still hearing the speaker’s voice.
+    </li>
+</ul>
+<h2>New Apple Games App, Game Overlay, and More Titles</h2>
+<p>macOS Tahoe introduces Apple Games, a dedicated app that gives players a home for all their games, making it easier to jump back into favorites, discover new games tailored just for them, and play with friends in whole new ways.</p>
+<p>With the new Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
+<p>Players can also turn on Low Power Mode, which extends gaming sessions and maximizes playtime on battery.</p>
+<p>For developers, macOS Tahoe introduces Metal 4, which brings even more advanced graphics and next-generation rendering technologies to games, like MetalFX Frame Interpolation and MetalFX Denoising, for smoother visuals and faster frame rates.</p>
+<p>The new Apple Games app is an all-in-one destination that gives players a home for all their games and playing with friends.</p>
+<p>Alongside these improvements, developers continue to deliver exciting new games on Mac, including upcoming titles like Crimson Desert and InZOI.</p>
+<p>Both games leverage powerful software technologies like MetalFX Upscaling to accelerate performance and deliver high-quality visuals, as well as take advantage of the M3 and M4 family of chips with ray tracing for a breathtaking experience. </p>
+<p>Additional titles on the way include Cyberpunk 2077, Cronos: The New Dawn, Architect: Land of Exiles, Lies of P: Overture, HITMAN World of Assassination, EVE Frontier, Where Winds Meet, and more.</p>
+<p>With Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
+
+<h2>Additional features in macOS Tahoe include : </h2>
+<ul>
+    <li><strong>Safari, </strong>
+        the world’s fastest browser,6 offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar with new sections to help users more easily find saved content like iCloud Tabs and Saved. 
+        When compared to Chrome, Safari is 50 percent faster at loading frequently visited websites7 and offers up to four more hours of battery life when streaming video.
+        And for even greater protection from trackers when browsing, Safari now offers advanced fingerprinting protection in all browsing by default.
+    </li>
+    <li>The <strong> Messages App</strong> 
+        brings Backgrounds, Polls, and a redesigned details view that helps users easily navigate what has been shared in a conversation. 
+        Plus, it features typing indicators in groups to let participants know exactly who is going to chime in, as well as the ability to add new contacts easily right from the group chat and search with more natural language.
+    </li>
+    <li><strong>Journal </strong>
+        comes to Mac, making it easy to capture and write about everyday moments and special events when inspiration strikes.
+        On Mac, it’s easy to type long, thoughtful entries and view them on a map. Users can keep multiple journals for various aspects of life, which are all synced across Apple devices.
+    </li>
+    <li><strong>Photos</strong>
+        has an updated design that includes beautiful Liquid Glass elements, enhancements for customization, easier workflows, and sidebar consistency with iPadOS.
+        Pinned Collections now come to Mac, so users can access the collections they use most with a click on the sidebar. 
+        Users will also find new buttons to quickly access filtering and sorting options in all views, and the ability to customize the size of Collections tiles, so they can view their library just how they like.
+    </li>
+    <li>On<strong> FaceTime </strong>
+        the reimagined landing page features beautiful Contact Posters of recent callers, Liquid Glass controls now float in the bottom right and recede to create more space, and a new More button lets users quickly access features like SharePlay and Live Translation.
+    </li>
+    <li><strong>Notes </strong>
+        adds the ability to import and export a note into a markdown file, and support for capturing conversations in the Phone app as audio recordings with transcriptions.
+    </li>
+    <li><strong>Accessibility </strong>
+        features include Magnifier on Mac, which enables users with low vision to zoom in on their surroundings using Continuity Camera on iPhone or attached USB cameras, apply image filters so items are easier to see or read, and even change perspective when viewing presentations or books from an angle.
+         Additional features include Accessibility Reader, a new systemwide reading mode designed with accessibility in mind; an all-new Braille Access experience that offers a user-friendly interface for those with a connected braille display; and Vehicle Motion Cues, which helps reduce motion sickness in a moving vehicle.
+    </li>
+    <li>With <strong> Passwords </strong>
+        users can easily reference changes they make to their accounts, including checking previous versions of passwords they save, along with details on when they were changed.
+        A Safari screen is shown on 16-inch MacBook Pro.
+        16-inch MacBook Pro shows a conversation in Messages with a Background created from a sunset photo.
+    </li>
+    <li>Safari offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar.</li>
+</ul>
+
+<h2>Availability</h2>
+<p>All of these features are available for testing starting today through the Apple Developer Program at developer.apple.com, and a public beta will be available through the Apple Beta Software Program next month at beta.apple.com.</p>
+<p>The release will be available as a free software update this fall. The Apple Intelligence features detailed require supported devices, which include all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later that have Apple Intelligence enabled and Siri and device language set to the same supported language: English, French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, or Chinese (simplified). </p>
+<p> More languages will be coming by the end of this year: Danish, Dutch, Norwegian, Portuguese (Portugal), Swedish, Turkish, Chinese (traditional), and Vietnamese. For more information, visit apple.com/os/macos and apple.com/apple-intelligence. Features are subject to change. Some features may not be available in all languages or regions, and availability may vary due to local laws and regulations. For more information about availability, visit apple.com.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 10, 2025',
+        image: 'images/macOSTahoe.jpg?w=800&h=600&fit=crop',
+        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
+        featured: true,
+        trending: true
+    },
 
 {
-        id: '1',
+        id: '2',
         title: 'The NVIDIA DGX Spark, which won in the Computer and System category at Computex 2025',
         excerpt: 'The NVIDIA DGX Spark, which won in the Computer and System category, is a personal AI supercomputer powered by the Grace Blackwell architecture.',
         content: `<p>It supports researchers and developers in prototyping and running advanced AI models locally, offering up to 1,000 trillion operations per second.</p>
@@ -20,7 +156,7 @@ const articles = [
         trending: true
     },
     {
-        id: '2',
+        id: '3',
         title: '2025 Could easily be Nintendos Year',
         excerpt: ' If you squinted, you could see a shadow that looked a little bit like Florida over 2025.',
         content: `<p>Naturally, that was the specter of GTA 6, which was originally scheduled to launch later this year but was moved to next year, on May 26, 2026.</p>
@@ -75,7 +211,7 @@ const articles = [
     },
 
     {
-        id: '3',
+        id: '4',
         title: 'Nintendo is  Switch 2 Here',
         excerpt: 'The Nintendo Switch 2 is real and its launching in June',
         content: `<p> After literally years of unverified rumors, dubious leaks and copious amounts of online speculation, Nintendo revealed its next-generation console, and it’s the Switch sequel the majority expected (and many of us wanted).</p>
@@ -162,7 +298,7 @@ const articles = [
         trending: true
     },
     {
-        id: '4',
+        id: '5',
         title: 'Next-Generation Jet Engines: Hydrogen-Powered Aviation Takes Flight',
         excerpt: 'Revolutionary hydrogen-powered jet engines promise zero-emission commercial flights, marking a pivotal moment for sustainable aviation.',
         content: `<p>The aviation industry is on the brink of a revolutionary transformation with the successful testing of hydrogen-powered jet engines that promise to eliminate carbon emissions from commercial air travel.</p>
@@ -199,38 +335,7 @@ const articles = [
         featured: false,
         trending: true
     },
-    {
-        id: '5',
-        title: 'Revolutionary Electric Motor Design Achieves 98% Efficiency',
-        excerpt: 'New magnetic levitation technology in electric motors reaches unprecedented efficiency levels, promising significant energy savings across industries.',
-        content: `<p>Engineers have developed a revolutionary electric motor design that achieves an unprecedented 98% efficiency rating through innovative magnetic levitation technology, potentially transforming energy consumption across numerous industries.</p>
-
-<p>The breakthrough motor design eliminates traditional mechanical bearings, instead using precisely controlled magnetic fields to suspend the rotor in a frictionless environment. This radical approach not only improves efficiency but also dramatically reduces maintenance requirements and extends operational lifespan.</p>
-
-<h2>Technical Innovation</h2>
-
-<p>The key innovations include:</p>
-
-<ul>
-<li><strong>Magnetic Levitation System:</strong> Advanced electromagnets create a stable suspension system that eliminates friction losses</li>
-<li><strong>Optimized Winding Patterns:</strong> Computer-designed copper windings minimize electrical losses and heat generation</li>
-<li><strong>Smart Control Systems:</strong> AI-powered controllers continuously optimize magnetic field strength and positioning</li>
-</ul>
-
-<h2>Industry Applications</h2>
-
-<p>The implications span multiple sectors. In manufacturing, these motors could significantly reduce energy costs for industrial equipment. The automotive industry sees potential for extending electric vehicle range, while renewable energy systems could benefit from more efficient generators and pumps.</p>
-
-<p>Early adopters in the semiconductor industry report energy savings of up to 15% when replacing conventional motors with the new design, demonstrating the real-world impact of this technology.</p>`,
-        category: 'Engines',
-        author: 'Lisa Park',
-        authorAvatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face',
-        date: 'December 2, 2024',
-        image: 'images/electric-motors.jpg',
-        tags: ['Electric Motors', 'Efficiency', 'Technology', 'Manufacturing'],
-        featured: false,
-        trending: true
-    },
+    
     {
         id: '6',
         title: 'Blockchain Technology Revolutionizes Supply Chain Transparency',
@@ -862,7 +967,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'May, 2025',
-        image: 'images/robo-cars.png?w=800&h=600&fit=crop',
+        image: 'images/we-ride.jpeg?w=800&h=600&fit=crop',
         tags: ['RoboTaxi', 'Engines', 'Cars', 'Innovation', 'Electric Vehicle', 'Technology'],
         featured: false,
         trending: false
@@ -881,7 +986,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'May, 2025',
-        image: 'images/red-car.png?w=800&h=600&fit=crop',
+        image: 'images/Hyundai-SUV.jpeg?w=800&h=600&fit=crop',
         tags: ['Hyundai', 'Engines', 'Cars', 'SUV','Innovation','Electric Vehicle', 'Technology'],
         featured: false,
         trending: false
@@ -934,7 +1039,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'May, 2025',
-        image: 'images/ai.jpg?w=800&h=600&fit=crop',
+        image: 'images/openAI-o1.jpeg?w=800&h=600&fit=crop',
         tags: ['AI', 'OPENAI', 'Technology', 'Innovation'],
         featured: false,
         trending: false
@@ -951,7 +1056,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'April, 2025',
-        image: 'images/bio.png?w=800&h=600&fit=crop',
+        image: 'images/bio-computers.jpeg?w=800&h=600&fit=crop',
         tags: ['Computers', 'Technology', 'Innovation'],
         featured: false,
         trending: false
@@ -978,7 +1083,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'May, 2025',
-        image: 'images/ray-glasses.jpg?w=800&h=600&fit=crop',
+        image: 'images/meta-rayban.jpeg?w=800&h=600&fit=crop',
         tags: ['Meta', 'AI', 'Innovation', 'Technology'],
         featured: false,
         trending: false
@@ -1280,7 +1385,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'April, 2025',
-        image: 'images/racer.png?w=800&h=600&fit=crop',
+        image: 'images/yamaha-motoroid.jpeg?w=800&h=600&fit=crop',
         tags: ['Yamaha', 'Technology', 'Innovation', 'Engines'],
         featured: false,
         trending: false
@@ -1406,140 +1511,37 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
     },
     {
         id: '38',
-        title: 'macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever',
-        excerpt: 'Introducing a stunning new design, more Continuity experiences with the Phone app, the biggest update to Spotlight ever, and expanded Apple Intelligence capabilities',
-        content: `<p>macOS Tahoe 26 introduces a beautiful new design, additional Continuity experiences, along with even more features to turbocharge productivity.</p>
-<p>Apple today previewed the next major macOS release — macOS Tahoe 26 — which introduces a stunning new design and powerful capabilities that enable users to get even more done. </p>
-<p>With the new design, iconic elements of macOS will feel more expressive, delightful, and personal while remaining instantly familiar, including the desktop, Dock, in-app navigation, and toolbars.</p>
-<p>Users can further personalize the experience with an updated Control Center and new color options for folders, app icons, and widgets. </p>
-<p>Continuity gets even better with the Phone app arriving on Mac, so users can access familiar features from iPhone — including Recents, Contacts, and Voicemails — and new ones like Call Screening1 and Hold Assist.</p>
-<p>Spotlight gets its biggest update ever, allowing users to now directly execute hundreds of actions — like sending an email or creating a note — and take advantage of all-new browsing experiences to get to content faster.</p>
-<p>Apple Intelligence expands with powerful new features that elevate the Mac experience further, while protecting privacy at every step. Live Translation helps users easily communicate across languages, translating text and audio.</p>
-<p>Genmoji and Image Playground offer new options for creativity.3 Shortcuts get even more powerful with intelligent actions and the ability to now tap directly into Apple Intelligence models to automate complex tasks.</p>
-<p>“macOS is the heart and soul of the Mac, and with Tahoe, we’re building on what users love most. Whether you’re a power user or just getting started on Mac, there’s something for everyone, with even more features to turbocharge productivity and make working across Mac and iPhone more seamlessly than ever before,” said Craig Federighi, Apple’s senior vice president of Software Engineering.</p>
-<p>“With its gorgeous new design, amazing Continuity with the Phone app, powerful enhancements to Spotlight, more intelligent shortcuts, and updates to Apple Intelligence, the Mac experience is better than ever.”</p>
+        title: 'Revolutionary Electric Motor Design Achieves 98% Efficiency',
+        excerpt: 'New magnetic levitation technology in electric motors reaches unprecedented efficiency levels, promising significant energy savings across industries.',
+        content: `<p>Engineers have developed a revolutionary electric motor design that achieves an unprecedented 98% efficiency rating through innovative magnetic levitation technology, potentially transforming energy consumption across numerous industries.</p>
 
-<h2>A Gorgeous New Design</h2>
-<p>The gorgeous new design enhances the Mac experience in new ways, while maintaining the familiarity of macOS.</p>
-<p>It is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings.</p>
-<p>The Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content. The menu bar is now completely transparent, making the display feel even larger.</p>
-<p>There are more ways to customize what controls appear in the menu bar and Control Center, along with how they’re laid out. The new design also unlocks more personalization on the Mac.</p>
-<p>App icons come to life in light or dark appearances, colorful new light and dark tints, as well as an elegant new clear look.</p>
-<p>Users can also change the colors of folders and add a symbol or emoji to give them a unique identity. And when combined with personalized wallpapers and theme colors, it’s easier than ever to make Mac a seamless extension of a user’s style.</p>
-<p>The new design elevates iconic elements of macOS, making them at once fresh and timelessly Mac. From the moment a user unlocks their Mac, the desktop is instantly familiar.</p>
+<p>The breakthrough motor design eliminates traditional mechanical bearings, instead using precisely controlled magnetic fields to suspend the rotor in a frictionless environment. This radical approach not only improves efficiency but also dramatically reduces maintenance requirements and extends operational lifespan.</p>
 
+<h2>Technical Innovation</h2>
 
-<h2>Continuity gets even better with the Phone App on Mac </h2>
-<p>The Phone app arrives on Mac thanks to Continuity, which lets users relay cellular calls from their nearby iPhone.</p>
-<p>The Phone app on Mac has the familiar features of the Phone app on iPhone — including Recents, Favorites, and Voicemails — and the latest updates like Call Screening and Hold Assist. </p>
-<p>Call Screening automatically answers calls from unknown numbers and asks the caller for information so a user can decide whether or not to answer.</p>
-<p>And when a user is stuck on hold, Hold Assist allows them to keep their spot in line while they wait for a live agent, so users can continue working on their Mac.</p>
-<p>With the new Phone app for Mac, users can conveniently access familiar content — like Recents, Contacts, and Voicemail — synced from iPhone, and easily make a call with a click.</p>
+<p>The key innovations include:</p>
 
-
-<h2>The Biggest Update Ever to Spotlight</h2>
-<p>Spotlight, the central place to search for things on Mac, makes finding what users are looking for easier than ever, and provides users with all-new ways to take action.</p>
-<p>During a search, all results — including files, folders, events, apps, messages, and more — are now listed together and ranked intelligently based on relevance to the user. </p>
-<p>New filtering options rapidly narrow searches to exactly what a user is looking for, like PDFs or Mail messages. Spotlight can also surface results for documents stored on third-party cloud drives.</p>
-<p>And when a user doesn’t know exactly what they’re searching for, Spotlight’s new browse views make it easy to scan through their apps, files, clipboard history, and more.</p>
-<p>All of a user’s apps are now on view in Spotlight.</p>
-<p>Users can now take hundreds of actions directly from Spotlight — like sending an email, creating a note, or playing a podcast — without jumping between apps.</p>
-<p>Users can take actions from both Apple apps and apps built by developers, because any app can provide actions to Spotlight using the App Intents API. </p>
-<p>Users can also run shortcuts and perform actions from the menu bar in the app they’re currently working in, all without lifting their hands off the keyboard. Spotlight learns from users’ routines across the system and surfaces personalized actions, such as sending a message to a colleague a user regularly talks to.</p>
-<p>Additionally, Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
-<p>Items from the menu bar for the app a user is currently working in are searchable in Spotlight.</p>
-<p>Spotlight introduces quick keys, which are short strings of characters that get users right to the action they’re looking for.</p>
-
-
-<h2>Brand-New Capabilities Powered by Apple Intelligence</h2>
-<p>Apple Intelligence, the personal intelligence system that delivers helpful and relevant intelligence, gets even more capable while protecting users’ privacy at every step.</p>
 <ul>
-    <li><strong>Seamless communication across language barriers with Live Translation : </strong>
-        In Messages, Live Translation can automatically translate messages, so if a user is making plans with new friends while traveling abroad, their message can be translated as they type and delivered in the recipient’s preferred language.
-        And when the user receives a response, each text can be instantly translated.
-        On FaceTime, a user can follow along with translated live captions while still hearing the speaker’s voice. And when a user is on a call in the Phone app, their words are translated for the recipient as they speak.
-        This is enabled by Apple-built models that run entirely on device, so conversations stay private.
-    </li>
-    <li><strong>Shortcuts get more intelligent : </strong>
-        A whole new class of intelligent actions lets users create shortcuts that are more powerful than ever, including summarizing text with Writing Tools and creating images with Image Playground. 
-        And now users will be able to tap directly into Apple Intelligence models, either on-device or with Private Cloud Compute, to generate responses that feed into the rest of their shortcut, maintaining the privacy of information used.
-        For example, a student can build a shortcut that uses Apple Intelligence models to compare an audio transcription of a class lecture to the notes they took, and add any key points they may have missed. 
-        Users can also choose to tap into ChatGPT for its broad world knowledge and expertise. 
-        Additionally, users can now run shortcuts automatically on macOS, such as at a specific time of day, or when taking a specific action like saving a file to a folder or connecting a display.
-    </li>
-    <li><strong>Updates to Genmoji and Image Playground : </strong>
-        macOS Tahoe brings new ways to create Genmoji, giving users the ability to start with existing emoji and descriptions, modify personal attributes like hair length or accessories, and select expressions based on the moment.
-        Users will also have more control of personal attributes and expressions in Image Playground, and can tap into brand-new styles with ChatGPT, like an oil painting style or vector art. 
-        For moments when users have a specific idea in mind, they can tap Any Style and describe exactly what they want.
-    </li>
-    <li><strong>Increased productivity with Reminders : </strong>
-        Apple Intelligence can review an email, website, note, or other content on Mac to find the most relevant action items. 
-        And users can also choose to use Apple Intelligence to automatically categorize Reminders into sections to make them more manageable.
-        Live Translation on FaceTime helps users communicate across languages by following along with translated live captions while still hearing the speaker’s voice.
-    </li>
-</ul>
-<h2>New Apple Games App, Game Overlay, and More Titles</h2>
-<p>macOS Tahoe introduces Apple Games, a dedicated app that gives players a home for all their games, making it easier to jump back into favorites, discover new games tailored just for them, and play with friends in whole new ways.</p>
-<p>With the new Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
-<p>Players can also turn on Low Power Mode, which extends gaming sessions and maximizes playtime on battery.</p>
-<p>For developers, macOS Tahoe introduces Metal 4, which brings even more advanced graphics and next-generation rendering technologies to games, like MetalFX Frame Interpolation and MetalFX Denoising, for smoother visuals and faster frame rates.</p>
-<p>The new Apple Games app is an all-in-one destination that gives players a home for all their games and playing with friends.</p>
-<p>Alongside these improvements, developers continue to deliver exciting new games on Mac, including upcoming titles like Crimson Desert and InZOI.</p>
-<p>Both games leverage powerful software technologies like MetalFX Upscaling to accelerate performance and deliver high-quality visuals, as well as take advantage of the M3 and M4 family of chips with ray tracing for a breathtaking experience. </p>
-<p>Additional titles on the way include Cyberpunk 2077, Cronos: The New Dawn, Architect: Land of Exiles, Lies of P: Overture, HITMAN World of Assassination, EVE Frontier, Where Winds Meet, and more.</p>
-<p>With Game Overlay, players can conveniently adjust their system settings, chat with friends, or invite them to play, all without having to leave their game.</p>
-
-<h2>Additional features in macOS Tahoe include : </h2>
-<ul>
-    <li><strong>Safari, </strong>
-        the world’s fastest browser,6 offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar with new sections to help users more easily find saved content like iCloud Tabs and Saved. 
-        When compared to Chrome, Safari is 50 percent faster at loading frequently visited websites7 and offers up to four more hours of battery life when streaming video.
-        And for even greater protection from trackers when browsing, Safari now offers advanced fingerprinting protection in all browsing by default.
-    </li>
-    <li>The <strong> Messages App</strong> 
-        brings Backgrounds, Polls, and a redesigned details view that helps users easily navigate what has been shared in a conversation. 
-        Plus, it features typing indicators in groups to let participants know exactly who is going to chime in, as well as the ability to add new contacts easily right from the group chat and search with more natural language.
-    </li>
-    <li><strong>Journal </strong>
-        comes to Mac, making it easy to capture and write about everyday moments and special events when inspiration strikes.
-        On Mac, it’s easy to type long, thoughtful entries and view them on a map. Users can keep multiple journals for various aspects of life, which are all synced across Apple devices.
-    </li>
-    <li><strong>Photos</strong>
-        has an updated design that includes beautiful Liquid Glass elements, enhancements for customization, easier workflows, and sidebar consistency with iPadOS.
-        Pinned Collections now come to Mac, so users can access the collections they use most with a click on the sidebar. 
-        Users will also find new buttons to quickly access filtering and sorting options in all views, and the ability to customize the size of Collections tiles, so they can view their library just how they like.
-    </li>
-    <li>On<strong> FaceTime </strong>
-        the reimagined landing page features beautiful Contact Posters of recent callers, Liquid Glass controls now float in the bottom right and recede to create more space, and a new More button lets users quickly access features like SharePlay and Live Translation.
-    </li>
-    <li><strong>Notes </strong>
-        adds the ability to import and export a note into a markdown file, and support for capturing conversations in the Phone app as audio recordings with transcriptions.
-    </li>
-    <li><strong>Accessibility </strong>
-        features include Magnifier on Mac, which enables users with low vision to zoom in on their surroundings using Continuity Camera on iPhone or attached USB cameras, apply image filters so items are easier to see or read, and even change perspective when viewing presentations or books from an angle.
-         Additional features include Accessibility Reader, a new systemwide reading mode designed with accessibility in mind; an all-new Braille Access experience that offers a user-friendly interface for those with a connected braille display; and Vehicle Motion Cues, which helps reduce motion sickness in a moving vehicle.
-    </li>
-    <li>With <strong> Passwords </strong>
-        users can easily reference changes they make to their accounts, including checking previous versions of passwords they save, along with details on when they were changed.
-        A Safari screen is shown on 16-inch MacBook Pro.
-        16-inch MacBook Pro shows a conversation in Messages with a Background created from a sunset photo.
-    </li>
-    <li>Safari offers a fresh but familiar experience, featuring a rounded tab design that floats in the toolbar, along with a refreshed sidebar.</li>
+<li><strong>Magnetic Levitation System:</strong> Advanced electromagnets create a stable suspension system that eliminates friction losses</li>
+<li><strong>Optimized Winding Patterns:</strong> Computer-designed copper windings minimize electrical losses and heat generation</li>
+<li><strong>Smart Control Systems:</strong> AI-powered controllers continuously optimize magnetic field strength and positioning</li>
 </ul>
 
-<h2>Availability</h2>
-<p>All of these features are available for testing starting today through the Apple Developer Program at developer.apple.com, and a public beta will be available through the Apple Beta Software Program next month at beta.apple.com.</p>
-<p>The release will be available as a free software update this fall. The Apple Intelligence features detailed require supported devices, which include all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later that have Apple Intelligence enabled and Siri and device language set to the same supported language: English, French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, or Chinese (simplified). </p>
-<p> More languages will be coming by the end of this year: Danish, Dutch, Norwegian, Portuguese (Portugal), Swedish, Turkish, Chinese (traditional), and Vietnamese. For more information, visit apple.com/os/macos and apple.com/apple-intelligence. Features are subject to change. Some features may not be available in all languages or regions, and availability may vary due to local laws and regulations. For more information about availability, visit apple.com.</p>`,
-        category: 'Technology',
-        author: 'FirmCade',
-        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
-        date: 'June 10, 2025',
-        image: 'images/macOSTahoe.jpg?w=800&h=600&fit=crop',
-        tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
-        featured: true,
+<h2>Industry Applications</h2>
+
+<p>The implications span multiple sectors. In manufacturing, these motors could significantly reduce energy costs for industrial equipment. The automotive industry sees potential for extending electric vehicle range, while renewable energy systems could benefit from more efficient generators and pumps.</p>
+
+<p>Early adopters in the semiconductor industry report energy savings of up to 15% when replacing conventional motors with the new design, demonstrating the real-world impact of this technology.</p>`,
+        category: 'Engines',
+        author: 'Lisa Park',
+        authorAvatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face',
+        date: 'December 2, 2024',
+        image: 'images/electric-motors.jpg',
+        tags: ['Electric Motors', 'Efficiency', 'Technology', 'Manufacturing'],
+        featured: false,
         trending: true
     },
+    
     {
         id: '39',
         title: 'The Top New iPadOS 26 Features',
@@ -1859,7 +1861,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/drones.png?w=800&h=600&fit=crop',
+        image: 'images/drone-plants.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science'],
         featured: false,
         trending: false
@@ -1882,7 +1884,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/lab.jpg?w=800&h=600&fit=crop',
+        image: 'images/small-camera.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science'],
         featured: false,
         trending: false
@@ -1904,7 +1906,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/engineers.png?w=800&h=600&fit=crop',
+        image: 'images/fabric.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science'],
         featured: false,
         trending: false
@@ -1926,7 +1928,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/solar.jpg?w=800&h=600&fit=crop',
+        image: 'images/solar-panels.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science'],
         featured: false,
         trending: false
@@ -1947,7 +1949,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/ai-bots.jpg?w=800&h=600&fit=crop',
+        image: 'images/gen-spider.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science'],
         featured: false,
         trending: false
@@ -1967,11 +1969,318 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/nuc.jpg?w=800&h=600&fit=crop',
+        image: 'images/us-laser.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Science', 'US'],
         featured: false,
         trending: false
     },
+     {
+        id: '51',
+        title: 'Meta Introduces Meta Oakley Glasses',
+        excerpt: 'Our first product for athletes and fans alike, Oakley Meta HSTN (pronounced HOW-stuhn) combines bold aesthetics with cutting-edge tech.',
+        content: `<p>Capture the action completely hands-free with the built-in camera and share your unique POV. Get pumped up with your favorite playlist, listen to podcasts, and more, thanks to powerful open-ear speakers seamlessly integrated into the frames.</p>
+<p>And with an IPX4 water resistance rating, you can push yourself to the outer limits of your potential.</p>
+<p>“This marks a bold new chapter in our wearables journey. With Oakley’s iconic design legacy and Meta’s breakthroughs in AI and spatial computing, we’re setting a new standard for the industry,” notes Rocco Basilico, Chief Wearables Officer at EssilorLuxottica. </p>
+<p>“It’s part of a broader multi-brand, multi-technology strategy that reflects the scale of our ambition: to build a connected eyewear category that spans lifestyles, communities, and use cases. We’re combining design, utility, and emotion to deepen human connection and unlock new potential through the lens of every brand we touch. And there is far more to come.”</p>      
+<h2>Oakley Meta HSTN is taking the game to the next level with features that represent the evolution of AI glasses:</h2>
+<ul>
+    <li><strong>More Battery Stamina:</strong>
+        A fully charged pair of Oakley Meta HSTN glasses can last up to eight hours of typical use and up to 19 hours on standby. You can charge them up to 50% in just 20 minutes. The glasses also come with a charging case that can deliver up to 48 hours of charging on the go.
+    </li>
+    <li><strong>Higher Resolution Camera: </strong>
+        Capture your activity and share your achievements in Ultra HD (3K) video.
+    </li>
+    <li><strong>Meta AI Meets Performance AI Glasses:</strong>
+        With Meta AI, your personal AI assistant, built in, athletes can get more out of their Oakley Meta HSTNs right out of the box. For example, you can level up the competition in a whole new way when playing a round of golf. Need to know how the wind is going to affect your drive? Ask, “Hey Meta, how strong is the wind today?” and channel your inner Team Oakley Athlete J.R. Smith. Or, like Boo Johnson, record epic moments and post to Stories, hands-free, by saying, “Hey Meta, take a video.” Get answers to a range of questions, whether you’re improving your game or checking the surf conditions.
+    </li>
+</ul>
+
+<h2>Introducing Oakley Meta Glasses: Amplifying Human Potential</h2>
+<p>Since 1975, Oakley has pioneered sport and culture through breakthrough technology and future-forward design. And now, Meta and Oakley are teaming up to deliver a brand-new category of Performance AI glasses.</p>
+<p>Oakley Meta glasses are a new product line that will combine Oakley’s signature design DNA with Meta’s industry-leading technology to give you deeper insights into your physical capabilities and help you share your biggest wins—on and off the field. </p>
+<p>The line will launch in a new global campaign starring Team Oakley athletes: World Cup winner Kylian Mbappé and three-time Super Bowl MVP Patrick Mahomes.</p>
+<p>“For 50 years, we’ve been pushing the boundaries of what is possible, obsessed with solving unsolved problems,” says Caio Amato, Global President of Oakley. </p>
+<p>“Together with Meta we are setting new bounds of reality—It is not only about pushing forward performance, but also about amplifying human potential as never before. And this is just the first chapter of a new era for sports.”</p>
+<p>Glasses have emerged as the most exciting new hardware category of the AI era, hands-down (and hands-free). We’re proud to lead the market with Ray-Ban Meta glasses, which have sold millions of units since launch. And now, we’re expanding our partnership with EssilorLuxottica to build upon another iconic, global brand.</p>       
+<h2>Design Details</h2>
+<p>Select pairs of Oakley Meta HSTN glasses come with Oakley® PRIZM™ Lens technology, one of the most advanced innovations in lens design.</p>
+<p>By decoding how the brain and eye process light, Oakley engineered a way to enhance vision and amplify contrast across changing light and weather conditions.</p>
+<p>This revolutionary technology fine-tunes the light spectrum, amplifying color while filtering out visual noise. Proprietary PRIZM™ dyes manipulate light at a molecular level, enhancing detail and transforming your surroundings into vivid, high-definition clarity.</p>
+<p>This allows subtle visual cues to come sharply into view, helping wearers see more, react quicker, and perform at their peak.</p>        
+<p>Of course, it’s good to have options. That’s why we’ve put together a lineup of six frame and lens color combos, all Rx-ready so you can pick the perfect pair:</p>
+<ul>
+    <li>Oakley Meta HSTN Warm Grey with PRIZM™ Ruby Lenses</li>
+    <li>Oakley Meta HSTN Black with PRIZM™ Polar Black Lenses</li>
+    <li>Oakley Meta HSTN Brown Smoke with PRIZM™ Polar Deep Water Lenses</li>
+    <li>Oakley Meta HSTN Black with Transitions® Amethyst Lenses</li>
+    <li>Oakley Meta HSTN Clear with Transitions® Grey Lenses</li>
+    <li>Oakley Meta HSTN Black with Clear Lenses</li>
+</ul>
+
+<p>We’re kicking off with a Limited Edition Oakley Meta HSTN that honors 50 years of Oakley design, while charging into a new era of innovation, featuring gold accents and gold 24K PRIZM™ Polar lenses.</p>
+
+<h2>Product Availability</h2>
+<p>The Limited-Edition Oakley Meta HSTN will be available for preorder starting July 11 for $499 USD, with the rest of the collection starting at $399 USD dropping later this summer.</p>
+<p>Oakley Meta HSTN will be available in the US, Canada, UK, Ireland, France, Italy, Spain, Austria, Belgium, Australia, Germany, Sweden, Norway, Finland, and Denmark.</p>
+<p>We’re also working to bring Oakley Meta HSTN to Mexico, India, and the United Arab Emirates later this year.</p>
+<p>Get a first glimpse of Oakley Meta HSTN in a global campaign featuring elite athletes from Team Oakley and beyond—from Gabriel Medina checking out the surf before carving lines to athlete J.R.</p>
+<p>Smith judging the wind on the golf course, Ishod Wair and Boo Johnson skating different spots and capturing it all, and Bicho Carrera operating on another altitude.</p>
+<p>The next evolution of AI glasses will also debut at marquee sporting events, starting with Fanatics Fest June 20 – 22, followed by UFC International Fight Week, June 25 – 27, with more to come this year.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/oakley-glasses.jpg?w=800&h=600&fit=crop',
+        tags: ['Meta', 'AI', 'Technology', 'Innovation'],
+        featured: true,
+        trending: true
+    },
+    {
+        id: '52',
+        title: 'NVIDIA Announces Isaac GR00T N1 the World’s First Open Humanoid Robot Foundation Model ',
+        excerpt: 'Now Available, Fully Customizable Foundation Model Brings Generalized Skills and Reasoning to Humanoid Robots, and Simulation Frameworks to Speed Robot Development',
+        content: `<p>NVIDIA, Google DeepMind and Disney Research Collaborate to Develop Next-Generation Open-Source Newton Physics Engine.</p>
+<p>New Omniverse Blueprint for Synthetic Data Generation and Open-Source Dataset Jumpstart Physical AI Data Flywheel</p>
+<p>GTC—NVIDIA announced a portfolio of technologies to supercharge humanoid robot development, including NVIDIA Isaac GR00T N1, the world’s first open, fully customizable foundation model for generalized humanoid reasoning and skills.</p>
+<p>The other technologies include simulation frameworks and blueprints such as the NVIDIA Isaac GR00T Blueprint for generating synthetic data, as well as Newton, an open-source physics engine — under development with Google DeepMind and Disney Research — purpose-built for developing robots.</p>
+<p>Available now, GR00T N1 is the first of a family of fully customizable models that NVIDIA will pretrain and release to worldwide robotics developers — accelerating the transformation of industries challenged by global labor shortages estimated at more than 50 million people.</p>
+<p>“The age of generalist robotics is here,” said Jensen Huang, founder and CEO of NVIDIA. “With NVIDIA Isaac GR00T N1 and new data-generation and robot-learning frameworks, robotics developers everywhere will open the next frontier in the age of AI.”</p>
+
+<h2>GR00T N1 Advances Humanoid Developer Community</h2>
+<p>The GR00T N1 foundation model features a dual-system architecture, inspired by principles of human cognition. “System 1” is a fast-thinking action model, mirroring human reflexes or intuition. “System 2” is a slow-thinking model for deliberate, methodical decision-making.</p>
+<p>Powered by a vision language model, System 2 reasons about its environment and the instructions it has received to plan actions.</p>
+<p>System 1 then translates these plans into precise, continuous robot movements. System 1 is trained on human demonstration data and a massive amount of synthetic data generated by the NVIDIA Omniverse™ platform.</p>
+<p>GR00T N1 can easily generalize across common tasks — such as grasping, moving objects with one or both arms, and transferring items from one arm to another — or perform multistep tasks that require long context and combinations of general skills. These capabilities can be applied across use cases such as material handling, packaging and inspection.</p>
+<p>Developers and researchers can post-train GR00T N1 with real or synthetic data for their specific humanoid robot or task.</p>
+
+<p>In his GTC keynote, Huang demonstrated 1X’s humanoid robot autonomously performing domestic tidying tasks using a post-trained policy built on GR00T N1. The robot’s autonomous capabilities are the result of an AI training collaboration between 1X and NVIDIA.</p>
+<p>“The future of humanoids is about adaptability and learning,” said Bernt Børnich, CEO of 1X Technologies. “While we develop our own models, NVIDIA’s GR00T N1 provides a significant boost to robot reasoning and skills. With minimal post-training data, we fully deployed on NEO Gamma — advancing our mission of creating robots that are not just tools, but companions capable of assisting humans in meaningful, immeasurable ways.”</p>
+<p>Among the additional leading humanoid developers worldwide with early access to GR00T N1 are Agility Robotics, Boston Dynamics, Mentee Robotics and NEURA Robotics.</p>
+
+<h2>NVIDIA, Google DeepMind and Disney Research Focus on Physics</h2>
+<p>NVIDIA announced a collaboration with Google DeepMind and Disney Research to develop Newton, an open-source physics engine that lets robots learn how to handle complex tasks with greater precision.</p>
+<p>Built on the NVIDIA Warp framework, Newton will be optimized for robot learning and compatible with simulation frameworks such as Google DeepMind’s MuJoCo and NVIDIA Isaac™ Lab. Additionally, the three companies plan to enable Newton to use Disney’s physics engine.</p>
+<p>Google DeepMind and NVIDIA are collaborating to develop MuJoCo-Warp, which is expected to accelerate robotics machine learning workloads by more than 70x and will be available to developers through Google DeepMind’s MJX open-source library, as well as through Newton.</p>
+<p>Disney Research will be one of the first to use Newton to advance its robotic character platform that powers next-generation entertainment robots, such as the expressive Star Wars-inspired BDX droids that joined Huang on stage during his GTC keynote.</p>
+<p>“The BDX droids are just the beginning. We’re committed to bringing more characters to life in ways the world hasn't seen before, and this collaboration with Disney Research, NVIDIA and Google DeepMind is a key part of that vision,” said Kyle Laughlin, senior vice president at Walt Disney Imagineering Research & Development.</p>
+<p>“This collaboration will allow us to create a new generation of robotic characters that are more expressive and engaging than ever before — and connect with our guests in ways that only Disney can.”</p>
+<p>NVIDIA and Disney Research, along with Intrinsic, announced an additional collaboration to build OpenUSD pipelines and best practices for robotics data workflows.</p>
+
+<h2>More Data to Advance Robotics Post-Training</h2>
+<p>Large, diverse, high-quality datasets are critical for robot development but costly to capture. For humanoids, real-world human demonstration data is limited by a person’s 24-hour day.</p>
+<p>Announced today, the NVIDIA Isaac GR00T Blueprint for synthetic manipulation motion generation helps address this challenge.</p>
+<p>Built on Omniverse and NVIDIA Cosmos Transfer world foundation models, the blueprint lets developers generate exponentially large amounts of synthetic motion data for manipulation tasks from a small number of human demonstrations.</p>
+<p>Using the first components available for the blueprint, NVIDIA generated 780,000 synthetic trajectories — the equivalent of 6,500 hours, or nine continuous months, of human demonstration data — in just 11 hours. </p>
+<p>Then, combining the synthetic data with real data, NVIDIA improved GR00T N1’s performance by 40%, compared with using only real data.</p>
+<p>To further equip the developer community with valuable training data, NVIDIA is releasing the GR00T N1 dataset as part of a larger open-source physical AI dataset — also announced at GTC and now available on Hugging Face.</p>
+
+<h2>Availability</h2>
+<p>NVIDIA GR00T N1 training data and task evaluation scenarios are now available for download from Hugging Face and GitHub. </p>
+<p>The NVIDIA Isaac GR00T Blueprint for synthetic manipulation motion generation is also now available as an interactive demo on build.nvidia.com or to download from GitHub.</p>
+<p>The NVIDIA DGX Spark personal AI supercomputer, also announced today at GTC, provides developers a turnkey system to expand GR00T N1’s capabilities for new robots, tasks and environments without extensive custom programming.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/nvidia-grook.jpg?w=800&h=600&fit=crop',
+        tags: ['Nvidia', 'Technology', 'Robotics', 'Innovations'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '53',
+        title: 'Koenigsegg has Developed an Electric Motor called Dark Matter',
+        excerpt: 'It produces 800 horse Power (600 kW) and 1250 Nm of torque, while weighing only 39 kilograms(86 Pounds)',
+        content: `<p>The Motor is designed for use in their hypercars, and it utilizes an innovative "raxial flux" design</p>
+<p>The object above may look like a sci-fi hockey puck or a carbonfibre bath plug, but it’s actually one of the most innovative electric motors in production today. It’s the beating heart of Koenigsegg’s new Gemera hypercar, and its name is equally ominous; this is the Dark Matter.</p>
+<p>It’s actually called the Dark Matter Raxial Flux 6-phase E-motor in full – and it debuted in the production-spec Gemera hypercar shown at the 2023 Goodwood Festival of Speed. </p>
+<p>The specs tell most of the story; it’s capable of pushing out around 800bhp and 922lb ft of torque, and weighs just 40kg.</p>
+<p>As for the name? As well as referencing a possible source of infinite energy, the ‘raxial’ part refers to the fact it’s a mix between radial and axis.</p>
+<p>The max speed of the Dark Matter is 8500rpm.
+So good is the performance of the new motor, that a single Dark Matter replaces the three motors shown in the pre-production hypercar. </p>
+<p>The result is a production car that’s lighter, more and agile but just as powerful as the concept we saw a few years ago.</p>
+<p>In standard spec the Dark Matter is paired to a 2.0-litre inline-three twin-turbo, which Koneg calls the Tiny Friendly Giant. </p>
+<p>Why? Because despite its size, it puts out a total of 608 PS (447 kW; 600 hp) and 600 Nm (443 lb.-ft.) of torque. That makes a total of 1400 bhp.</p>
+<p>However, the super-compactness of the motor (it measures 383.3mm x 381.5mm x 135.5mm) means the Gemera chassis has the wriggle room to fit in a modified version of the Jesko’s V8 engine, too.</p>       
+<p>In that spec, which the Koenigsegg engineers are calling Hot V8 or (HV8) the Swedish supercar can put out 2300 bhp.</p>`,
+        category: 'Engines',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/darkmatter.jpeg?w=800&h=600&fit=crop',
+        tags: ['Engines', 'Innovation', 'Technology'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '54',
+        title: 'SuperWood That is 50% Stronger than steel is coming this Year',
+        excerpt: 'Maryland-based startup InventWood is set to mass-produce the first batches of Superwood',
+        content: `<p>'Superwood,' a new material made of modified timber that's stronger than regular barky stems, and even stronger than steel. It's set to go on sale later this year.</p>       
+<p>The resulting Superwood is also resistant to fire, weathering, and pests. Hu has since fine-tuned the production process so it can be manufactured at scale in hours rather than weeks, and licensed the technology to InventWood.</p>
+<p>The company raised US$15 million to build a factory, and will ship its first batches of the material out of there this Northern Hemisphere summer.</p>
+<p>Initially, Superwood products will be best suited for use in facades; the plan is to subsequently tackle structural applications that could replace some of the concrete and steel required to construct durable buildings.</p>
+<p>Strengthened Superwood is said to resist damage from the weather, pests, rot, and fireInventWood</p>
+<p>Over the last few years, Hu has developed transparent wood, burnt-wood water filters, and sodium-ion batteries based on wood and leaves.</p>
+<p>The new Superwood gets its super strength through a two-step process developed by Hu's team of scientists.</p>
+<p>First, the researchers boil samples of wood in a watery mixture of sodium hydroxide and sodium sulfite, which works to partially remove lignin and hemicellulose from the material. </p>
+<p>Then, the treated wood is hot-pressed, which causes the cell walls to collapse and forms highly-aligned cellulose nanofibers. The end result is completely densified wood, which is much stronger than the natural stuff.</p>
+<p>"This new way to treat wood makes it 12 times stronger than natural wood and 10 times tougher," said Hu in 2018. "This could be a competitor to steel or even titanium alloys, it is so strong and durable. It's also comparable to carbon fiber, but much less expensive."<p>
+<p>A new densification process can make "super wood" that's 12 times stronger than natural woodUniversity of Maryland</p>
+
+<p>One of the experiments the team ran to test the material was to fire projectiles at it. While they blasted right through the natural wood, the super wood managed to stop the projectiles partway through.</p>
+<p>The researchers said that the process can be applied to many different kinds of wood, and can be scaled to treat bulk amounts of the material at once. At the beginning of the process, the wood can be bent and molded into the desired shape.</p>
+<p>The new material could not only allow wood to step in as a cheaper, lighter and more renewable alternative to steels and titanium alloys – it could also allow softer woods to compete with their sturdier but slower-growing cousins.</p>
+<p>This kind of wood could be used in cars, airplanes, buildings – any application where steel is used," said Hu. "Soft woods like pine or balsa, which grow fast and are more environmentally friendly, could replace slower-growing but denser woods like teak in furniture or buildings."</p>`,
+        category: 'Startups',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/superwood.jpeg?w=800&h=600&fit=crop',
+        tags: ['Startups', 'Innovation', 'Science'],
+        featured: true,
+        trending: true
+    },
+    {
+        id: '55',
+        title: 'The all-electric Mercedes-Benz EQE SUV',
+        excerpt: 'Is a luxurious and powerful SUV with various trim levels and battery options, offering a balance of range and performance.',
+        content: `<p>'Superwood,' a new material made of modified timber that's stronger than regular barky stems, and even stronger than steel. It's set to go on sale later this year.</p>       
+<p>It features a sleek design, a spacious interior with advanced technology, and multiple powertrain options including a high-performance AMG variant.</p>
+<p>The all-electric EQE SUV offers SUV luxury, innovative comfort and individuality for up to five occupants. Thanks to its design concept, this SUV variant of the EQE Saloon offers greater flexibility and impressive spaciousness.</p>
+
+<h2>Range & Charging</h2>
+<p>The EQE SUV combines unique performance and power with all-electric drive.</p>
+<p>Several variants of energy recovery by means of recuperation are incorporated, as well as power constancy and energy management. The ECO Assistant determines the most efficient driving style, supported by a sophisticated thermal concept. </p>
+<p>The standard heat pump uses the waste heat from the electric drive and the high-voltage battery to heat the interior.</p>
+<p>Above the rear axle of the EQE SUV is a current charging system.<Above the rear axle of the EQE SUV is a current charging system./p>        
+
+<h2>Your personal voyage of discovery to a comfortable future.</h2>
+<p>The MBUX Hyperscreen transforms the interior into an imposing high-tech command centre.</p>
+<p>Three brilliant displays, including an innovative Zero Layer user interface, merge visually behind a shared glass cover to form a single highresolution user interface that extends across the entire width of the instrument panel.</p>
+
+<h2>Central display with OLED technology.</h2>
+<p>The OLED technology is used for an appropriate display quality on the central screen.</p>
+<p>Here the individual pixels are selfilluminating – image pixels which are not used remain switched off and thus appear deep black. Active OLED pixels, on the other hand, appear even more colourful than is the case with LCD. </p>
+<p>This also results in high contrast values – from whichever angle you look at the display and whatever the light conditions.</p>
+
+<h2>Key Features</h2>
+<ul>
+    <li><strong>Powertrain : </strong>
+        The EQE SUV comes with various powertrain options, including rear-wheel drive (RWD) and all-wheel drive (AWD) with dual motors. The EQE 350+ offers the longest range, while the AMG model provides high performance.
+    </li>
+    <li><strong>Range : </strong>
+        The EQE 350+ achieves a range of up to 302 miles, while the AMG model offers a range of up to 230 miles.
+    </li>
+    <li><strong>Charging : </strong>
+        Mercedes-Benz emphasizes the use of renewable energy for charging and provides access to a vast charging network.
+    </li>
+    <li><strong>Design : </strong>
+        The EQE SUV features a distinctive Mercedes-Benz design with a sleek, aerodynamic silhouette, a black panel grille, and stylish lighting elements.
+    </li>
+    <li><strong>Interior : </strong>
+        The interior is luxurious, with a large panoramic sunroof, ambient lighting, and a central display with OLED technology for enhanced visuals.
+    </li>
+    <li><strong>Technology : </strong>
+        The EQE SUV is equipped with the latest MBUX infotainment system and features like DIGITAL LIGHT for adaptive illumination.
+    </li>
+    <li><strong>AMG Performance</strong>
+        The Mercedes-AMG EQE SUV delivers a sporty and dynamic driving experience with powerful electric motors, variable all-wheel drive, and AMG-specific interior features.
+    </li>
+</ul>`,
+        category: 'Engines',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/EQE-SUV.jpeg?w=800&h=600&fit=crop',
+        tags: ['Engines', 'SUV', 'Evs'],
+        featured: true,
+        trending: true
+    },
+    {
+        id: '56',
+        title: 'Mercedes-AMG reveals GT 63 “APXGP Edition” tied to upcoming F1 film',
+        excerpt: 'Limited to 52 units, the 577-hp coupe features Race Gold accents and bespoke design',
+        content: `<p>Limited to 52 units, the 577-hp coupe features Race Gold accents and bespoke design</p>
+<p>Equipped with carbon fiber aero, ceramic brakes, and exclusive APXGP interior detailing</p>        
+<p>To celebrate the upcoming F1 film starring Brad Pitt and Damson Idris, Mercedes-AMG has revealed the GT 63 “APXGP Edition,” a 577-hp special edition sports car limited to just 52 units globally.</p>
+<p>Unveiled at the Formula 1 Miami Grand Prix, the model is inspired by the film’s fictional APXGP team and features a hand-applied Race Gold livery, forged 21-inch wheels, carbon fiber aero kit and motorsport-grade brake and suspension upgrades.</p>
+<p>The coupe includes AMG’s 4L V8 biturbo engine paired with Performance 4MATIC+ all-wheel drive and advanced tech such as active roll stabilization and rear-axle steering.</p>
+<p>Inside, gold-accented carbon trim, illuminated sills and Nappa leather seats underscore the edition’s cinematic flair.</p>
+<p>Mercedes-AMG worked closely with the film’s producers — including Joseph Kosinski and Jerry Bruckheimer — providing vehicles and F1 expertise for scenes shot during real Grand Prix weekends.</p>
+<p>A global co-promotion campaign will support the movie’s theatrical debut, scheduled for June 27, 2025.</p>
+<p>Only 52 of the “APXGP Edition” models will be made, each featuring a numbered plaque and a custom AMG car cover.</p>
+<p>This marks a rare intersection of motorsport, film and bespoke automotive craftsmanship. At the time of writing, Mercedes has not yet revealed details on pricing for the limited edition model.</p>`,
+        category: 'Engines',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/AMG-GT-63.jpg?w=800&h=600&fit=crop',
+        tags: ['Engines', 'SUV', 'F1'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '57',
+        title: 'Citroen C4',
+        excerpt: 'The C4 gets the new mild-hybrid system doing the rounds in everything Stellantis, using a 1.2-litre turbocharged petrol engine',
+        content: `<p>First thing to note, where are the chevrons at the front? Gone as part of Citroen’s new family face, accompanied by a new logo, and it’s not an improvement in my opinion. </p>
+<p>The front end is really quite different, more new-generation than facelift. There’s a new grille and a new lighting signature made up of three horizontal LED bars at each, repeated again at the rear. There’s new ‘CITROEN’ lettering at the rear now too, as is all the rage. </p>       
+<p>Citroen says it’s made it look simpler, I’m not sure I agree</p>
+<p>Inside Citroen’s redone it’s already impressive ‘Advanced Comfort’ seats with more support and padding and there’s a redesigned digital instrument cluster. But I won’t pretend, on the whole, this is a significant change.</p>
+
+<h2>What are the specs?</h2>
+<p>Ignoring the electric e-C4, there’s the choice of three ICE versions, all revolving around a turbocharged 1.2-litre petrol engine. </p>
+<p>All are now automatics too, with all manual versions of the C4 discontinued. If you’ve ever driven a manual Citroen, you’ll know this isn’t a huge loss. The diesel versions are also now unsurprisingly dead.</p>
+<p>The C4 gets the new mild-hybrid system doing the rounds in everything Stellantis, using a 1.2-litre turbocharged petrol engine mated to a 48-volt hybrid system.</p>
+<p>In entry-level guise, it puts out 99bhp, but here we’re sampling it with 134bhp. Both use a six-speed dual-clutch automatic.</p>
+<p>Citroen claims a 20 per cent improvement in fuel economy compared to non-hybrid models, though the 48mpg achieved on the test drive isn’t much different to any pre-facelift petrol C4 I’ve tried in the UK.</p>
+<p>Citroen also continues to sell its old-generation ‘PureTech 130’ engine, mated to an eight-speed auto, though it’s noticeably slower and less efficient on paper… yet £1,400 cheaper to buy. The choice is yours.</p>
+
+
+<h2>How Does It Drive ?</h2>
+<p>It’s comfier than your favourite armchair.</p>
+<p>The ride is terrific at higher speeds in particular, ebbing and flowing with the contours of the road, pitching slightly under braking and riding sharp bumps and crests smoothly. It’s all rather remarkable on what is a mainstream car.</p>
+<p>Thank the standard ‘progressive cushions’ – hydraulic stops at the end of the damper stroke, which absorb and release kinetic energy to prevent bouncing.</p>
+<p>Despite the soft suspension set-up, the C4’s no wobbly jelly though, with body movements controlled and quick to settle. Refinement is excellent and the C4 makes for a great long-distance car, even despite all versions riding on 18-inch alloys.</p>
+<p>The hybrid system also works better in the C4 than any other Stellantis application I’ve tried it in to date – with a decent lick of pace for overtakes and getting ahead of traffic, if not as brisk as its eight-second 0-62mph time would have you believe.</p>
+<p>The hybrid system isn’t the smoothest, though, with an indecisive automatic gearbox sometimes depriving you of power when you need it, though gearshift paddles are fitted so you can take over.</p>
+<p>Make no mistake, there are sweeter handling cars in this class, but none do comfort or refinement so well.</p>
+
+<h2> The Interior </h2>
+<p>Generally very pleasant, if hardly any different to the previous model. </p>
+<p>It’s no bad thing in this instance as the C4’s cabin is well laid out and intuitive to use. The 10.25-inch touchscreen sits atop the dashboard and is joined by a new digital instrument cluster, though it hardly seems to look or perform any different to the screens of old.</p>
+<p>It’s all quite dark and monochrome, though, and can look a bit uninspiring next to Citroen’s more colourful interiors in its other cars.</p>
+<p>Physical climate buttons are present and correct and the steering wheel is logically laid out for ease of use.</p>
+<p>If you hate the button-free cabin of a new VW Golf you’ll like the Citroen C4. Material quality is good for the price, with plenty of soft-touch materials, though I’m massively against the gloss black centre console that will look scratched after a few thousand miles. The C4’s seats are also impressively comfortable – not that they were bad to start with – with plenty of adjustment to them too.</p>
+<p>Rear seat space in the outermost perches is excellent, with levels of rear legroom more in line with cars from the class above, even despite the coupe-like roofline. The middle rear seat is all but useless for adults, however, because of the indent in the rooflining from the lights. Boot space is very middle-of-the-road by class standards at 385 litres – a Skoda Scala offers a much larger boot for similar money.</p>       
+
+<h2>Before you buy (trims and rivals)</h2>
+<p>Citroen has slashed the price of its electric e-C4 as part of this latest update by up to £5,600, and it’s meant that the price between the petrol car and EV versions is narrower than it’s ever been at £4,000.</p>
+<p>Prices for the cheapest hybrid model remain attractively low at £22,995 for a hatchback of the size, undercutting a Ford Focus by a colossal £5,500. Even the cheapest Kia Ceed is more expensive.</p>
+<p>Three trims are available – You (only offered with the cheapest 99bhp hybrid), Plus and Max. Standard equipment is generous for the price, too, including 18-inch alloy wheels, Citroen’s trick suspension, dual-zone climate control and a 10-inch touchscreen.</p>
+<p>The Plus model costs from £23,385 and brings the new, larger digital instrument cluster, a reversing camera and satellite navigation.</p>
+<p>At the top of the range, the Max gets a heated steering wheel, heated and electric front seats and adaptive cruise control and all for £25,575 – remember you wouldn’t even get a base-spec Golf for that.</p>
+<p>Options are limited to paint colour and the £500 Techno Pack, bringing a 360-degree camera, a more advanced adaptive cruise control and wireless smartphone charger, though I’d give this option a skip personally.</p>
+
+<p>This is a pretty small update in terms of meaningful changes for the Citroen C4, but it’s one that exemplifies that Citroen knows what it’s doing with everyday normal cars. Its comfort is outstanding and improved seats only take it a step further.</p>
+<p>I’m not fully sold on its mild-hybrid system, and I don’t think it’s efficient or refined enough to justify the extra £1,400 outlay over the standard petrol 130 model. But even still, the C4 is an easy-going, intuitive car that gets on with the job of being solid family transport with minimal frills or fun, with no major weakness. And it should be applauded for that.</p>
+<p>Specs are for a Citroen C4 Max Hybrid 136</p>`, 
+        category: 'Engines',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/citroen-c4.jpg?w=800&h=600&fit=crop',
+        tags: ['Engines', 'SUV', 'Evs'],
+        featured: false,
+        trending: false
+    },
+
+
+
+
+
+
 
 
 
