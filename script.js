@@ -1806,7 +1806,7 @@ Updated controls in the Music app are shown on Apple Watch.</p>
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 9, 2025',
-        image: 'images/ev.jpg?w=800&h=600&fit=crop',
+        image: 'images/Ev-Road.jpg?w=800&h=600&fit=crop',
         tags: ['Technology', 'Innovation', 'Evs'],
         featured: false,
         trending: false
@@ -1897,7 +1897,7 @@ Oliveria, who has a background in developing luxury resorts, was inspired to cre
 <p>The fabric uses a layered thermoelectric composite made of flexible polymers and silver nanowires. </p>
 <p>It’s extremely light, but highly sensitive to temperature differentials. When worn, even the small heat gradient between your skin and the air is enough to generate usable microcurrents.</p>
 <p>In real-world tests, a single scarf made from this fabric powered a smartwatch for six hours — just from a brisk winter walk.</p>
-<p>he team says it’s ideal for health sensors, GPS trackers, and emergency wearables that can’t rely on batteries.</p>       
+<p>The team says it’s ideal for health sensors, GPS trackers, and emergency wearables that can’t rely on batteries.</p>       
 <p>What’s most impressive is its durability. Previous attempts at thermoelectric clothing suffered from stiffness or breakdown after washing. </p>
 <p>But this new blend holds its conductivity through 50+ wash cycles, and it feels like a soft cotton-linen hybrid.</p>
 <p>The researchers are now working with Nordic defense agencies to outfit arctic personnel with heat-harvesting uniforms — turning body warmth into survival power during long missions.</p>
@@ -2145,8 +2145,7 @@ So good is the performance of the new motor, that a single Dark Matter replaces 
         id: '55',
         title: 'The all-electric Mercedes-Benz EQE SUV',
         excerpt: 'Is a luxurious and powerful SUV with various trim levels and battery options, offering a balance of range and performance.',
-        content: `<p>'Superwood,' a new material made of modified timber that's stronger than regular barky stems, and even stronger than steel. It's set to go on sale later this year.</p>       
-<p>It features a sleek design, a spacious interior with advanced technology, and multiple powertrain options including a high-performance AMG variant.</p>
+        content: `<p><p>It features a sleek design, a spacious interior with advanced technology, and multiple powertrain options including a high-performance AMG variant.</p>
 <p>The all-electric EQE SUV offers SUV luxury, innovative comfort and individuality for up to five occupants. Thanks to its design concept, this SUV variant of the EQE Saloon offers greater flexibility and impressive spaciousness.</p>
 
 <h2>Range & Charging</h2>
@@ -2275,6 +2274,188 @@ So good is the performance of the new motor, that a single Dark Matter replaces 
         featured: false,
         trending: false
     },
+{
+        id: '59',
+        title: 'Meet Hooper The E-Trike',
+        excerpt: 'Say hi to the Hopper, an electrically-assisted pedal trike with its own cover and headlight',
+        content: `<p>This is a hybrid, but not as you know it. Say hi to the Hopper, an electrically-assisted pedal trike with its own cover and headlights – and it's just gone into series production. Car, meet bike.</p>
+<p>The 2.1m-long covered pedelec (pedal-electric) is the creation of Hamburg-based start-up Hopper Mobility.</p>
+<p>A metre wide with its mirrors folded out, its e-bike-style credentials mean legit bike path use, while the Twizy-esque cover keeps most of the rain out of your face. It doesn't come cheap, mind.</p>
+<p>There are two flavours of Hopper. Priced from £10,145 (€11,900) the Passenger Hopper lets you give a friend (or two small humans) a backie and has 125 litres of storage space.</p>
+<p>The Cargo Hopper costing from £10,486 replaces your mate with an extra-large boot, up to 285 litres in fact. Both have a total payload of 300kg.</p>
+<p>The trike sports a Heinzmann wheel hub engine generating 250W of continuous power, peaking at 1,350W to assist your leg muscles and minimise perspiration, at a top speed of 15.53mph. Easy, tiger.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 24, 2025',
+        image: 'images/Hopper.jpg?w=800&h=600&fit=crop',
+        tags: ['Evs', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '59',
+        title: 'China on Saturday began constructing two advanced telescopes',
+        excerpt: 'At the Lenghu Astronomical Observation Base in Qinghai Province, including a groundbreaking 4.2-meter dedicated astrometric telescope for precise solar system measurements.',
+        content: `<p>The telescope, developed by the Nanjing Institute of Astronomical Optics and Technology of the Chinese Academy of Sciences, represents China’s first single-mirror astronomical telescope with an aperture exceeding 4 meters.</p>
+<p>Its exceptional features include ultra-low distortion imaging, extremely high positioning accuracy, and deep detection limits unmatched by conventional telescopes. </p>
+<p>The telescope’s primary mission involves conducting high-precision measurements of faint moving objects within the solar system.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 20, 2025',
+        image: 'images/?w=800&h=600&fit=crop',
+        tags: ['China', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '60',
+        title: 'Honda Conducted a successful launch and landing test of Reusable Rocket',
+        excerpt: 'Hondas first space ships are part of their entry into the space business, which includes reusable rockets and other technologies. ',
+        content: `<p>Honda R&D, the company's research and development subsidiary, conducted a successful launch and landing test of an experimental reusable rocket in June 2025. </p>
+<p>This test marked the first time Honda successfully landed a rocket after reaching an altitude of 300 meters.  </p>
+<p>Honda's space program, which began in 2019, also includes developing electric vertical takeoff and landing (eVTOL) aircraft, an avatar robot, and a lunar surface teleoperation robot</p>
+<h2>Here's a breakdown of Honda's space initiatives:</h2>       
+<ul>
+    <li><strong>Reusable Rockets : </strong>
+        Honda is developing reusable rockets, with the aim of launching Earth observation satellites and facilitating satellite communications for connected vehicles.
+    </li>
+    <li><strong>Honda eVTOL : </strong>
+        The company is also working on electric vertical takeoff and landing (eVTOL) aircraft, potentially for urban air mobility.
+    </li>
+    <li><strong>Honda Avatar Robot : </strong>
+        Honda is developing a humanoid robot for remote operations, potentially for use in space or on the lunar surface.
+    </li>
+    <li><strong>Lunar Surface Teleoperation Robot : </strong>
+        Honda is also working on a robot for operating on the lunar surface, potentially for exploration and resource gathering.
+    </li>
+</ul>
+<p>Honda's entry into the space business was inspired by the suggestion of a young engineer to utilize their core technologies in rocket development.</p>
+<p>They are partnering with JAXA, the Japanese space agency, and others to advance their space technology initiatives. </p>
+<p> Honda's approach to space exploration is also influenced by the company's founder's "Spirit of Change" philosophy, which encourages the pursuit of new challenges and technologies, according to a report from Yano Research Institute.</p>`,      
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 22, 2025',
+        image: 'images/Honda.jpeg?w=800&h=600&fit=crop',
+        tags: ['Space', 'Honda', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '61',
+        title: 'New G4 VMs with NVIDIA RTX PRO 6000 Blackwell power AI, graphics, gaming and beyond',
+        excerpt: 'NVIDIA announce the preview of  new G4 VMs based on NVIDIA RTX PRO 6000 Blackwell Server edition — the first cloud provider to do so. ',
+        content: `<p>This follows the introduction earlier this year of A4 and A4X VMs powered by NVIDIA Blackwell GPUs, designed for large-scale AI training and serving. </p>
+<p>At the same time, we’re also seeing growing demand for GPUs to power a diverse range of workloads and data formats. </p>        
+<p>G4 VMs round out our 4th generation NVIDIA GPU portfolio and bring a new level of performance and flexibility to enterprises and creators.</p>
+<p>G4 VMs combine eight NVIDIA RTX PRO 6000 GPUs, two AMD Turin CPUs, and Google Titanium offloads:</p>
+
+<p>RTX PRO 6000 Blackwell GPUs provide new fifth-generation Tensor Cores, second-generation Transformer Engine supporting FP6 and FP4 precision, fourth-generation Ray Tracing (RT) Cores, and Multi-Instance GPU (MIG) capabilities, delivering 4x the compute and memory, and 6x memory bandwidth compared to G2 VMs.</p>
+<p>Turin CPUs offer up to 384 vCPUs and 1.4TB DDR5 memory for a ratio of 48 vCPU per GPU. This enables embedding models with precompute features on CPUs and graphics, where the CPU helps orchestrate simulations.</p>
+<h2>Titanium offloads provide dedicated network processing with up to 400 Gbps bandwidth that’s 4x faster than in G2 VMs.</h2>
+<p>The G4 VM can power a variety of workloads, from cost-efficient inference, to advanced physical AI, robotics simulations, generative AI-enabled content creation, and next-generation game rendering.</p>
+<p>For example, with advanced ray-tracing cores to simulate the physical behavior of light, NVIDIA RTX PRO 6000 Blackwell provides over 2x performance of the prior generation, providing hyper-realistic graphics for complex, real-time rendering.</p>
+<p>For demanding graphics and physical AI-enabled applications, being able to run NVIDIA Omniverse workloads natively unlocks new possibilities for the manufacturing, automotive, and logistics industries, where digital twins and real-time simulation are rapidly transforming operations.</p>
+<p>G4 VMs also support the NVIDIA Dynamo inference framework to enable high-throughput, low-latency AI inference for generative models at scale.</p>
+<p>Customers across industries — from media and entertainment to manufacturing, automotive, and gaming — are onboarding to use G4 VMs to accelerate AI-powered content creation, advanced simulation, and high-performance visualization:</p>
+<p>“Our initial tests of the G4 VM show great potential, especially for self-hosted LLM inference use cases. We are excited to benchmark the G4 VM for a variety of other ranking workloads in the future.” - Vinay Kola, Snap, Senior Manager, Software Engineering</p>
+<p>Altair is going to help customers accelerate their computer aided engineering (CAE) workloads with the performance and large memory of Google Cloud's G4 instances.</p>
+<p>Ansys will help its customers leverage Google Cloud's G4 instances to accelerate their simulation workloads.</p>
+<p>AppLovin is excited to use G4 for ad serving and recommendations.</p>
+<p>WPP is excited to use G4 to continue ground-breaking work with physically-accurate generative AI and robotics simulation.</p>
+<p>Nuro is looking to run drive simulations on G4 via NVIDIA Omniverse.</p>
+<p>A major player in the video game industry is looking to use G4 for their next generation game rendering.</p>
+<p>G4 VMs provide 768 GB of GDDR7 memory and 384 vCPUs with 12 TiB of Titanium local SSD, extensible with up to 512 TiB of Hyperdisk network block storage.</p>
+<p>For design and simulation workloads, G4 VMs support third-party engineering and graphics applications like Altair HyperWorks, Ansys Fluent, Autodesk AutoCAD, Blender, Dassault SolidWorks, and Unity.</p>       
+<p>G4 VMs are available as part of AI Hypercomputer, Google Cloud’s fully integrated AI supercomputing system, and work natively with Google Cloud services like Google Kubernetes Engine, Google Cloud Storage, and Vertex AI. </p>
+<p>Many customers use a combination of services such as Vertex AI or GKE with NVIDIA GPUs on Google Compute Engine and Google Cloud HyperdiskML for AI inference. </p>
+<p>Hyperdisk provides ultra-low latency and supports up to 500K IOPS and 10,000 MiB/s throughput per instance — making it well-suited for demanding inference workloads.</p>
+<p>G4 is currently in preview and will be available globally by the end of the year. Reach out to your Google Cloud Sales representative to learn more.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 23, 2025',
+        image: 'images/NVIDIA-RTX.jpeg?w=800&h=600&fit=crop',
+        tags: ['Nvidia', 'Google', 'AI', 'Gaming'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '62',
+        title: 'Huaweis FDD Tri-Band Massive MIMO Wins Red Dot Design Award 2025',
+        excerpt: 'Shenzhen, China, June 16, 2025] At Germanys prestigious Red Dot Award Design Competition,',
+        content: `<p>Huawei's FDD tri-band Massive MIMO earned the Red Dot Design Award for its exceptional performance and lean, energy-efficient design.</p>
+<p>Since its commercial debut in Nigeria with MTN—Africa's largest mobile operator—this February, Huawei's FDD tri-band Massive MIMO has been tested and deployed on over 20 networks across the globe.</p>
+<p>The solution delivers significant value to operators’ customers by relieving traffic demand on 4G networks, providing deep and wide 5G coverage, and enabling enhanced 5G-A uplink. </p>
+<h2>The solution simultaneously delivers five leading technological advantages : </h2>
+<ul>
+    <li><strong>Simplified Ultra Wide Band : </strong>
+        The solution supports industry-leading, high-power 720 W output, while employing cutting-edge Real Wide Bandwidth and Compact Dipole technologies.
+        This realizes unified operations across three bands (such as 1.8 GHz, 2.1 GHz, and 2.6 GHz, or AWS, PCS, and 2.6 GHz) within a single form factor whose size is equivalent to a conventional two-band Massive MIMO device. 
+        This enables the solution to boost both frequency bands and power capabilities without increasing size or wind load.
+    </li>
+    <li><strong>Ultimate Capacity : </strong>
+        This solution is an effective enabler for 4G, 5G, and 5G-A. It can deliver 3-fold to 4-fold downlink capacity gains on 4G networks, which can increase to 7-fold in NR over LTE 4T4R, thereby effectively alleviating network congestion.
+    </li>
+    <li><strong>Enhanced UpLink : </strong>
+        By leveraging M-Receiver technology, the solution realizes 5-fold uplink capacity and 10 dB uplink coverage gains compared to LTE 4T4R, fulfilling new demands of the mobile AI era that are typified by HD streaming and security, multimodal AI interactions, and autonomous driving.
+    </li>
+    <li><strong>Native BeamForming : </strong>
+        Tri-band Massive MIMO traditionally increases interference due to the addition of extra beams. However, supported by enhanced intelligent beam scheduling and intelligent beamforming, Huawei's tri-band Massive MIMO enables dynamic beam movement with users and intelligent interference avoidance, boosting user experience by 20% to 30%.
+    </li>
+    <li><strong>Energy Saving : </strong>
+        The innovative GigaGreen architecture supports "0 bit 0 watt", enabling ultra-deep dormancy during low-traffic periods and instant wake-up when traffic increases, meaning substantial reductions in overall network power consumption.
+    </li>
+</ul>
+
+<p>"We have prioritized innovation in order to provide customers with wireless products that deliver unparalleled performance in terms of user experience, network capacity, energy efficiency, and simplified deployment.
+    It is our mission to help operators build premium networks that offer improved efficiency and cost-performance.
+    This award for tri-band Massive MIMO represents the industry's recognition of our innovative design. 
+    Moving forward, we will continue down the path of innovation and escort our operator partners as they strive towards greater business success," said Fang Xiang, Vice President of Huawei Wireless Network Product Line.
+</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 23, 2025',
+        image: 'images/Hauwei-FDD.jpg?w=800&h=600&fit=crop',
+        tags: ['Hauwei', 'China', 'Technology'],
+        featured: false,
+        trending: false
+    },
+    {
+        id: '63',
+        title: 'Chinese robot maker UBTech eyes mass production of industrial humanoids by late 2025',
+        excerpt: 'More than 60 per cent of the humanoid robots the company is planning to deliver this year will be an upcoming model, the Walker S2',
+        content: `<p>Shenzhen-based UBTech Robotics plans to mass produce its humanoid robots as soon as the end of this year, according to an executive, as the loss-making robot maker ramps up output amid fierce competition in China’s robotics sector.</p>
+<p>UBTech will deliver about 500 to 1,000 units of its Walker S Series industrial humanoid robots this year to customers and partners, including car makers, Apple supplier Foxconn and logistics firm SF Express, chief brand officer Michael Tam said in an interview on the sidelines of the recent China Conference in Guangzhou hosted by the South China Morning Post.</p>       
+<p>While UBTech ultimately aims to “bring humanoid robots into every family”, industrial robots are the company’s major focus right now, according to Tam. Factories need humanoid robots “to help them solve the challenge of the shortage of manpower”, Tam said.</p>
+<p>Compared to homes, factories provide a simpler and more “stable” setting for humanoid robots to operate and train, as they are currently “not smart enough to be in service for human beings at home”, Tam said.</p>
+<p>UBTech, founded in 2012 and listed in Hong Kong in 2023, is one of the largest players in China’s robotics industry.</p>
+<p>It offers a wide range of non-humanoid robotic products for applications such as cleaning, delivery and service. It launched its most advanced industrial humanoid Walker S1 in October last year.</p>
+<p>The company has deployed the Walker S1 in factories of several major car makers, while their use in Foxconn’s production lines will be more “complicated and delicate”, Tam said.</p>
+<p>More than 60 per cent of the humanoid robots the company is planning to deliver this year will be an upcoming model, the Walker S2, which will be launched in the second quarter of this year with a lighter and stronger build than the current version, according to Tam.</p>
+<p>An even newer version called the Walker S3 will launch later this year, he added. UBTech’s planned roll outs come amid intensified competition in China’s robotics industry, where new entrants are rapidly advancing their humanoid products.</p>
+<p>A 2-year-old start-up founded by a former Huawei Technologies recruit, for instance, said in December that it has started mass production of its general-purpose robot for commercial use.</p>
+<p>However, Tam said UBTech has over a decade of experience in the industry, giving it a competitive advantage. </p>
+<p>“Technology is a key driving power for the new companies, but it takes time for all of them to train or to make the talent pool, because humanoid robots are a really comprehensive area,” he said.</p>
+<p>Despite its long-standing presence, the company is not immune from the group of robot makers that struggle to turn a profit because of the huge investments required. In the first half of 2024, UBTech posted a net loss of 516.4 million yuan (US$70.5 million), narrowing slightly from 532.8 million yuan in the same period in 2023.</p>
+<p>But the company will, at least for the moment, focus on investing in artificial intelligence (AI) instead of prioritising profits, according to Tam. “I think we need more patience,” Tam said. “[We’re] paying much more attention [to] the investment into AI, [ finding] all the solutions to raise the money to invest [in] the capabilities of the humanoid robots.”</p>`,
+
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 23, 2025',
+        image: 'images/UB-Tech.jpg?w=800&h=600&fit=crop',
+        tags: ['China', 'Robotics', 'Technology'],
+        featured: false,
+        trending: false
+    },
+
+
+
+
 
 
 
