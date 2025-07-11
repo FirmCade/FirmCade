@@ -2635,7 +2635,7 @@ The design aims to allow quiet, precise movement through windows, vents, or tigh
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 28, 2025',
-        image: 'images/HyperShell.png?w=800&h=600&fit=crop',
+        image: 'https://gizmodo.com/app/uploads/2025/03/hypershell-tech-1280x853.jpg?w=800&h=600&fit=crop',
         tags: ['AI', 'Technology', 'Innovation'],
         featured: false,
         trending: false
