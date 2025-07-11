@@ -292,7 +292,7 @@ const articles = [
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'May, 2025',
-        image: 'images/switch-2.png?w=800&h=600&fit=crop',
+        image: 'https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_800/ncom/en_US/articles/2025/nintendo-switch-2-to-be-released-in-2025/1920x1080_WN_PR01162025?w=800&h=600&fit=crop',
         tags: ['Nintendo', 'Technology', 'Innovation', 'Gaming'],
         featured: true,
         trending: true
@@ -1504,7 +1504,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'images/iOS26.jpg?w=800&h=600&fit=crop',
+        image: 'https://www.apple.com/newsroom/images/2025/06/apple-elevates-the-iphone-experience-with-ios-26/article/Apple-WWDC25-iOS-26-hero-250609_big.jpg.large.jpg?w=800&h=600&fit=crop',
         tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
         featured: true,
         trending: true
@@ -1579,7 +1579,7 @@ Scaled Foundations Streamlines the Transition From Simulation to Real-World Appl
         author: 'FirmCade',
         authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
         date: 'June 10, 2025',
-        image: 'https://www.apple.com/v/os/a/images/ipados/welcome/welcome_ipados_hw__bbdq6tfwzhnm_large.png?w=800&h=600&fit=crop',
+        image: 'https://www.apple.com/newsroom/images/2025/06/ipados-26-introduces-powerful-new-features-that-push-ipad-even-further/article/Apple-WWDC25-iPadOS-26-hero-250609_big.jpg.large.jpg',
         tags: ['Apple', 'iOS26', 'macOSTahoe', 'iPadOS', 'visionOS', 'tvOS', 'watchOS', 'WWDC25'],
         featured: false,
         trending: false
@@ -2452,6 +2452,375 @@ So good is the performance of the new motor, that a single Dark Matter replaces 
         featured: false,
         trending: false
     },
+{
+        id: '64',
+        title: 'China Military Unveiled Mosquito-Sized Drone Built For Secret Military Missions',
+        excerpt: 'China has developed mosquito-sized drones through its National University of Defence Technology (NUDT), and these were showcased on Chinese state media.',
+        content: `<p>China’s National University of Defence Technology (NUDT) in Hunan province recently unveiled a microscopic drone, just 1.3 cm long and under 0.3 g, resembling a mosquito — complete with hair-thin legs and flapping wings.</p>
+<p>The drones are designed to mimic the structure and flight patterns of real insects, particularly mosquitoes.</p>
+<p>They feature ultra-lightweight materials, a stick-thin body around 1.3 cm long, flapping leaf-shaped wings, and delicate legs—making them capable of extremely subtle and agile movement in small or crowded environments.</p>
+<p>These microdrones are intended for covert surveillance operations and intelligence gathering, particularly in urban warfare or battlefield settings where discretion is critical.</p>
+<p>Their insect-like appearance makes them difficult to detect, allowing them to blend into natural surroundings or indoor environments.
+The design aims to allow quiet, precise movement through windows, vents, or tight enclosures without drawing attention.
+</p>
+
+<p>However, despite their promise, there is no publicly confirmed evidence that these drones are currently deployed in active military missions.</p>
+<p>Their development remains in the prototype and research stages. Major limitations persist, such as power supply constraints, limited flight time, miniaturization of onboard sensors, and communication systems.</p>
+<p>These challenges make operational deployment difficult at such a small scale, though similar research is being conducted by other countries, including the U.S. and Norway.</p>
+<p>This innovation reflects a growing global interest in micro aerial vehicles (MAVs) for military use, with the potential to transform espionage and tactical reconnaissance in the near future.</p>
+
+
+
+
+<h2>Stealth Spy Tech:</h2>
+<p>Unveiled on military TV channel CCTV‑7 with student researcher Liang Hexiang demonstrating it.</p>
+<p>Designed for information reconnaissance and covert special operations, operable via smartphone.</p>
+
+<h2>🛠 Design & Capabilities:</h2>
+<p>Winged bionic body: Two- or four-wing variants mimic mosquito flight.</p>
+<p>Likely packed with ultra-miniaturized sensors and controllers.</p>
+<p>Estimated size: ~1.3 cm long, <0.3 g in weight  .</p>
+ 
+<h2>🎯 Tactical Edge:</h2>
+<p>Essentially undetectable by radar or the naked eye — ideal for surveillance.</p>
+<p>Adds to China expanding low-cost AI drone arsenal, including flask-shaped and bird-like micro-drones.</p>
+<p>Could revolutionize battlefield intel and possibly swarm tactics in the future.</p>
+
+<h2>🤔 Limitations & Outlook:</h2>
+<p>Still primarily a research prototype, not yet field-deployed</p>
+<p>Likely extremely limited in battery life, sensor range, and data transmission due to its minuscule size.</p>
+<p>Represents a broader trend in militaries toward miniaturizing drones—from Norway’s Black Hornet Nano to China’s advanced covert micro-UAVs.</p>
+        
+<h2>✅ Bottom Line:</h2>
+<p>This mosquito drone offers a chilling glimpse into future warfare—tiny, nearly invisible, and capable of spying undetected. While still experimental, it marks a leap in military micro-robotics that could significantly alter reconnaissance and intelligence gathering strategies.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'images/China-Drone.png?w=800&h=600&fit=crop',
+        tags: ['China', 'Robotics', 'Technology'],
+        featured: false,
+        trending: false
+    },
+
+{
+        id: '65',
+        title: 'UK Startup builds SunBird, A Super Fusion Rocket',
+        excerpt: 'A Fusion Rocket that may reach 329,000 MPH, cutting Mars travel time to 30 Days',
+        content: `<p>A UK-based startup has unveiled Sunbird, a revolutionary fusion-powered rocket that could change the future of interplanetary travel.</p>,
+<p>Capable of reaching speeds up to 329,000 mph (529,000 km/h), Sunbird promises to slash the time it takes to travel to Mars from several months to just 30 days.</p>        
+<p>The rocket uses nuclear fusion, the same energy process that powers the sun, to generate immense thrust far beyond what current chemical rockets can achieve.</p>
+<p>Unlike traditional propulsion systems, fusion offers higher efficiency, more thrust per unit of fuel, and minimal radiation risk to astronauts.</p>
+
+<h2>Key Highlights</h2>
+<ul>
+    <li><strong>Speed : </strong>
+        Up to 329,000 mph – over 10 times faster than current spacecraft.
+    </li>
+    <li><strong>Technology : </strong>
+        Fusion propulsion, offering cleaner, longer-lasting energy.
+    </li>
+    <li><strong>Mission Impact : </strong>
+        Potential Mars travel time cut from 6–9 months to just 1 month.        
+    </li>
+    <li><strong>Safety : </strong>
+        Designed to minimize exposure to cosmic radiation by shortening mission duration.
+    </li>
+<ul>
+<p>The Sunbird project is still in development, but successful prototypes and simulations have impressed space agencies and private investors.</p>
+<p>If the tech proves viable in space, it could mark a historic leap toward routine travel to Mars—and beyond.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'images/SunBird.png?w=800&h=600&fit=crop',
+        tags: ['UK', 'Space', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+
+{
+        id: '66',
+        title: 'France Unveils worlds largest sail yacht cruise, maiden voyage in mid 2026',
+        excerpt: 'The world’s largest sail-powered cruise ship, the Orient Express Corinthian',
+        content: `<p>A new chapter in luxury travel is about to set sail—literally. The world’s largest sail-powered cruise ship, the Orient Express Corinthian, has officially floated out at the Chantiers de l’Atlantique shipyard in France. Stretching 727 feet and weighing over 26,000 gross tons, this towering three-masted vessel will welcome its first guests aboard in mid-2026.</p>
+<p>The cruise is a collaboration between hospitality giant Accor and the iconic Orient Express brand, known more for its opulent trains than sea voyages—until now.</p>
+<p>The ship will accommodate just 110 guests in 54 expansive suites, offering a blend of old-world elegance and cutting-edge maritime engineering. </p>        
+<p>Onboard highlights include five restaurants helmed by Michelin-starred chef Yannick Alléno and design cues that echo the golden age of travel.</p>
+<p>But it’s not just about luxury. The Corinthian features a unique hybrid propulsion system that prioritizes wind power via its three 328-foot masts and can switch to LNG when needed. </p>
+<p>Its innovative rig design allows the sails to fold away efficiently, and the ship is equipped with an AI-powered floating object detection system to protect marine life.</p>
+<p>It also avoids anchoring to preserve fragile seabeds and uses UV-based ballast water treatment for cleaner sailing.</p>
+<p>Set to debut with a route from Marseille through the Mediterranean and across the Atlantic to the Caribbean, this vessel isn't just a floating hotel—it’s a statement in sustainable high-end cruising.</p>
+<p>A sister ship, Orient Express Olympian, is expected to follow in 2027.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'images/SailShip.png?w=800&h=600&fit=crop',
+        tags: ['France', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '68',
+        title: 'An AI-powered camera now detects lies by tracking invisible facial muscle tremors',
+        excerpt: 'In a neurotech lab in Sweden, researchers have built an AI-driven camera that can detect deception with no words spoken — only by monitoring tiny muscle movements in the face',
+        content: `<p>The system identifies "truth leakage" from micro-tremors invisible to the naked eye, capturing what lie detectors never could.</p>
+<p>The technology uses a hypersensitive optical array that captures over 3,000 frames per second, tracking sub-millimeter shifts in the skin caused by unconscious micro-contractions. </p>
+<p>These micro-signals — often triggered by stress, conflict, or memory access — differ when someone lies versus when they recall real memories.</p>        
+<p>The data is then fed into a neural network trained on thousands of interviews, psychological studies, and criminal interrogations. </p>
+<p>Unlike polygraphs, which rely on heart rate or sweating, this system works silently, remotely, and within seconds.</p>
+<p>In trials, the AI detected deception with over 92% accuracy — far surpassing human interrogators and traditional tools.</p>
+<p>It even succeeded with actors, diplomats, and seasoned security agents trained to hide emotion.</p>
+<p>Applications are controversial but powerful: remote courtroom analysis, high-security access systems, AI interview screening, and lie detection during hostage negotiations.</p>
+<p>Ethics boards are racing to define boundaries before deployment spreads.</p>
+
+<p>What was once read between the lines is now seen between the muscles.</p`,
+
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'images/AI-Camera.png?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '69',
+        title: 'The Hypershell Exoskeleton',
+        excerpt: 'This is a wearable robotic device designed to enhance human mobility and physical capabilities',
+        content: `<p>Its Been Praised for its ability to reduce fatigue, increase speed and endurance, and provide support for various activities including hiking, running, and daily tasks.</p>
+<p>Users report feeling lighter, experiencing less strain, and being able to perform physical activities for longer duration.</p>
+
+<h2>Key Features and Benefits : </h2>
+<ul>
+    <li><strong>Boosted Speed and Endurance : </strong>
+        The Hypershell X is particularly effective for runners, with reviewers noting improved pace and reduced muscle fatigue, especially during longer runs.
+    </li>
+    <li><strong>Reduced Exertion : </strong>
+        Reviewers have reported feeling less fatigued and experiencing a significant reduction in the percieved weight of objects, making tasks like carrying heavy loads or navigating challenging terrain easier.
+    </li>
+    <li><strong>Support for Various Activities : </strong>
+        The Exoskeleton is designed to be versatie providing support for activities like hiking, running, and even daily tasks.
+    </li>
+    <li><strong>AI-powered Motion Engine : </strong>
+        The Device's AI-powered motion engine adapts to the users movements in real-time, ensuring seamless and responsive support.
+    </li>
+    <li><strong>Comfort and Fit : </strong> 
+        While some reviewers noted that the initial setup and tightening of straps might require some effort, the Exoskeleton is generally considered comfortable to wear for extended periods.
+    </li>
+    <li><strong>Battery Life and Charging : </strong>
+        The Hypershell Pro X comes with 17.5km battery range and an extra battery for extended use. It Supports 65-watt charging, which takes about 88 minutes to fully charge.      
+    </li>
+</ul>
+
+<h2>Potential Drawbacks : </h2>
+<ul>
+    <li><strong>Bulkiness : </strong>
+        Some reviewers mentioned that the device can be bulky and may not be easily worn under clothing.
+    </li>
+    <li><strong>Battery Placement : </strong>
+        One reviewer suggested that the battery placement could be improved to allow for easier sitting and leaning back.
+    </li>
+    <li><strong>Hot-swapping Batteries : </strong>
+        Changing batteries while wearing the Exoskeleton can be challenging due to the battery's location.
+    </li>
+</ul>
+
+<h2>Overall : </h2>
+<p>The Hypershell Exoskeleton is a groundbreaking device that has the potential to significantly impact how people move and experience the world.</p>
+<p>While Some minor drawbacks, the benefits, such as increased speed, endurance, and reduced fatigue, make it a compelling option for individuals seeking to enhance their physical capabilities.</p>`,     
+       category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'images/Hypershell.png?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '70',
+        title: 'Koenigsegg has unveiled its latest hypercar, and its every bit as wild as you expect.',
+        excerpt: 'Named Sadair’s Spear, the new megacar pays tribute to Christian von Koenigsegg’s father, Jesko, and his racehorse from the 1970s. But dont be fooled by the sentimental name—this machine is built for speed, not nostalgia.',
+        content: `<p>An evolution of the 2019 Jesko Attack, the Spear pushes power to 1,625 hp using E85 fuel—25 more than its predecessor—while shedding 77 lb (35 kg) to reach a curb weight of just 3,054 lb (1,385 kg). </p>
+<p>That gives it a ridiculous power-to-weight ratio and helps it hit a blistering top speed of 224 mph (360 km/h).</p>
+<p>Underneath, it’s packing Koenigsegg’s 5-liter twin-turbo V8 paired with the company's ultra-fast Light Speed Transmission. </p>
+<p>Aerodynamic tweaks include a dual-blade active rear wing, underfloor strakes, and enlarged cooling vents, contributing to increased downforce and better performance on the track. It recently beat the Jesko Attack’s record at the Gotland Ring by 1.1 seconds.</p>
+<p>Koenigsegg has taken the jesko to its absolute limit with the launch of Sadairs Spear , a brutal evolution of the Jesko Attack, now with more power, less weight, and enhanced aerodynamics.</p>
+<p>This is not just a hypercar, its a high-speed masterpiece scupted for the track and engineered fo the extreme.</p>
+<p>Only 30 units of this $5M carbon-clad rocket will ever exist—and every one of them is already sold.</p> 
+<p>As fast as it is rare, the Sadair’s Spear blurs the line between street car and track weapon.</p>
+<p>With this release, Koenigsegg once again proves why its in a league of its own.</p>`,      
+        category: 'Engines',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://supercarblondie.com/wp-content/uploads/Koenigsegg-Sadars-Spear-rear-1024x576.webp?w=800&h=600&fit=crop',
+        tags: ['Engines', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+
+{
+        id: '71',
+        title: 'Bosch has unveiled a groundbreaking safety system that could redefine how we think about driving.',
+        excerpt: 'Bosch AI Braking System Predicts Hazards 50m Ahead to react to upcoming road conditions in miliseconds.',
+        content: `<p>By combining artificial intelligence with advanced sensors, the system monitors traffic, terrain, and nearby obstacles in real time. </p>
+<p>The goal is simple yet revolutionary—prevent accidents before they ever occur.</p>
+<p>It is not just about reacting faster. It is about predicting danger and acting before the driver even knows it is there.</p>
+<p>This AI-powered technology processes massive streams of data on the fly, using predictive modeling to recognize risky scenarios such as sudden lane changes, road hazards, or unpredictable traffic behavior.</p>
+<p>Unlike traditional safety systems that respond only after a threat is detected, Bosch’s solution anticipates it in advance.</p>
+<p>This means more time to react, more intelligent decisions from the vehicle, and ultimately, a safer experience for everyone on the road.</p>       
+<p>The integrated power brake offered by Bosch is a vacuum-independent, electro-hydraulic solution which combines brake force boosting and ESP® functionality in a single unit. In automated vehicles, the integrated power brake is supplemented with a redundant brake unit.</p>
+<p>As the automotive world shifts toward smarter, more connected vehicles, Bosch is positioning itself at the forefront of next-generation mobility.</p>
+<p>If the automatic emergency braking detects that the distance to the preceding or stationary vehicle is becoming critically short at a vehicle speed above 30 km/h (18 mph), it prepares the braking system for potential emergency braking. If the driver does not react to the hazardous situation, the system warns the driver via an audible and/or visual signal, followed by a short but noticeable brake jerk. </p>
+<p>The system then initiates partial braking to reduce the speed and give the driver valuable time to react. As soon as the driver presses the brake pedal, the system provides braking support. To do this, the system continuously calculates the degree of vehicle deceleration required to avoid the collision. If the system detects that the driver has failed to apply sufficient brake force, it increases the braking pressure to the required level so that the driver can attempt to bring the vehicle to a standstill before a collision occurs.</p>
+<p>If the driver fails to react to the immediate risk of collision, and the automatic emergency braking determines that a rear-end collision is unavoidable, it can automatically initiate full braking. As a result, the vehicle is traveling at a significantly reduced speed when the collision occurs, reducing the severity of the crash for the passengers of both vehicles.</p>
+<p>This new system has the potential to become a global safety standard, raising the bar for how cars protect their passengers.</p>
+<p>In the future, driving could be defined not just by speed or style, but by how well your car can think ahead. </p>
+<p>Bosch is making sure that future arrives sooner than expected.</p>`,
+        category: 'AI',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/predictive-emergency-braking-system/20-05-27_bosc_20095_cc_bildwelt_notbremssystem_pkw_1176x662px_rgb.jpg?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '72',
+        title: 'Former Twitter CEO Jack Dorsey Introduces Messaging App That Works Without the Internet.',
+        excerpt: 'Jack Dorsey, co-founder of Twitter, is exploring a very different kind of social connection—one that doesn’t need the internet.',
+        content: `<p>His weekend project, called Bitchat, is a peer-to-peer Bluetooth messaging app that runs entirely offline.</p>
+<p>There are no servers, no phone numbers or emails required, and no tracking. Messages are stored only on your device, and private chats are end-to-end encrypted.</p>
+<p>Built around mesh-network tech, Bitchat lets users chat within a 300-meter range.</p>
+<p>If your contact is further away, the app can bounce messages across other nearby devices until it reaches them. </p>
+<p>Inspired by old-school platforms like IRC, it supports both group chat rooms and private conversations.</p>
+<p>While similar to now-defunct tools like FireChat and Bridgefy—popular during internet blackouts like the 2019 Hong Kong protests—Bitchat feels timely.</p>
+<p>It could prove useful in areas with poor connectivity, large public events, or regions where internet freedom is under pressure.</p>       
+<p>For now, Bitchat is more of a personal experiment than a full-scale product.</p>
+<p>Dorsey shared an early iOS build via TestFlight (now full), and hinted at future plans like Wi-Fi Direct support and potential Android integration.</p>
+<p>It’s still early days, and Bitchat appears to be more of a personal experiment for Dorsey than a full-fledged product.</p>
+<p>But it comes at a time when tensions between several governments are high and online censorship in many countries is more prevalent than it’s ever been.</p>       
+<p>With growing interest in offline, privacy-first communication tools, it’ll be worth watching if Bitchat gains traction beyond its current experimental phase.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://businessdor.com/wp-content/uploads/2025/07/Jack-Dorsey-just-released-a-Bluetooth-messaging-app-bitchat-1024x683.jpg?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '73',
+        title: 'Meet the Urbanisto — a bike that can switch roles in seconds, without tools.',
+        excerpt: 'A Dutch startup has come up with a clever solution for anyone torn between a commuter ebike and a cargo hauler.',
+        content: `<p>Whether you're zipping to work or picking up groceries (or kids!), this modular ebike adjusts to your needs on the fly.</p>
+<p>The Urbanisto made waves at Eurobike 2025 in Germany, and for good reason.</p>
+<p>In its everyday form, it’s a sleek commuter bike powered by a Bosch Performance Line motor and a choice of lithium batteries offering up to 110 km (68 miles) of range.</p>
+<p>But when duty calls, you can quickly transform it into a cargo bike by swapping the front section.</p>        
+<p>A quick-release system lets riders switch between a child-carrying module or a box-friendly open platform, both with front suspension to smooth out the ride.</p>
+<p>Performance-wise, it’s loaded with practical features: hydraulic disc brakes, belt-drive drivetrain, continuously variable Enviolo gearbox, and Schwalbe city tires.</p>
+<p>Just note: in cargo mode, the range drops slightly to about 80 km (50 miles).</p>       
+<p>Starting at €6,499 (approx. $7,650), it’s priced above some competitors like the Frolic ebike, but Urbanisto’s fast-switching design might just make it worth the extra cost for those needing one bike that truly does it all.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://s1.cdn.autoevolution.com/images/news/gallery/urbanisto-city-bicycle-turns-into-a-cargo-hauler-with-a-simple-click-you-can-carry-kids_3.jpg?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '74',
+        title: 'Elon Musk has just launched the next evolution in messaging.',
+        excerpt: ' Introducing XChat, the encrypted chat feature inside the X platform that promises to revolutionize how we connect. ',
+        content: `<p>Unlike traditional messaging apps, XChat does not require a phone number. </p>
+<p>Elon Musk’s X has released XChat as a dedicated messenger to take on the likes of WhatsApp, Telegram and China’s WeChat service. Here is all you need to know. Elon Musk’s ambition with X is to make it an all-in-one app and his next step on the road to be a WeChat competitor is XChat. </p>
+<p>Launched as the dedicated messaging platform for users on X, XChat focuses on a couple of security features that could possibly lure more users to try out the service. </p>
+<p>In an official post on X, Musk revealed that XChat features Bitcoin-style encryption, disappearing messages and cross-platform audio and video calls. The app also allows users to share files with fellow XChat users, thus indicating its intent to take on the giants of this industry, including WhatsApp and Telegram. </p>
+<p>“All new XChat is rolling out with encryption, vanishing messages and the ability to send any kind of file. Also, audio/video calling,” writes the Tesla CEO.</p>
+<p>Musk says that XChat is based on Rust, which is a programming language that encourages speed and security. The language also employs a Bitcoin-like encryption system, thus allowing XChat to offer secure messaging encryption. The provision of end-to-end encryption puts XChat in the same league as popular messaging apps like WhatsApp, Signal and Telegram.</p>
+<p>You can talk securely one on one or in groups, send disappearing messages, and share files of any type. It is fast, flexible, and fully encrypted from end to end.</p>
+<p>This new feature is built on a lightning-fast Rust-based architecture that Musk describes as Bitcoin-style.</p>       
+<p>It supports audio and video calling with sleek functionality that rivals major communication platforms.</p>
+<p>And the best part? All of it lives inside the X ecosystem, seamlessly integrating chat, content, and calling into one unified experience. </p>
+<p>The feature is now in beta for select subscribers and will roll out more widely soon.</p>     
+<p>Musk’s broader vision is now in motion.</p>
+
+<h2>How to access XChat?</h2>
+<p>XChat is currently in the beta process and hence, is available to select users and developers at the time. Additionally, XChat is available only for paid subscribers of X. What remains to be seen is whether X opens it up for free users with a limited set of features to expand its user base. Will Grok AI also be integrated with the messaging app in the future just like Meta and WhatsApp?</p>
+<p>Based on Musk’s post, it seems that XChat will be available on Android, iOS and web platforms. </p>
+        
+<p>With privacy-first design and futuristic tools, XChat is setting the stage for how people will connect in the future.</p>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://www.financialexpress.com/wp-content/uploads/2025/03/Elon-Musk-X.png?w=1024?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+{
+        id: '75',
+        title: 'xAI’s Colossus supercomputer',
+        excerpt: 'xAI’s Colossus supercomputer—launched in Memphis in September 2024—is already the world’s largest AI-focused supercomputer and is being rapidly scaled up 🚀. ',
+        content: `<p>xAI's Colossus supercomputer cluster achieves remarkable scale by utilizing Supermicro 4U liquid cooled servers containing NVIDIA Hopper Tensor Core GPUs.</p>
+<p>The systems use Supermicro’s liquid cooling solution, consisting of cold plates, coolant distribution manifolds, and coolant distribution units.</p>
+<p>With NVIDIA Spectrum-X Ethernet networking, all the systems are connected, elevating xAI’s Grok AI to a new level.</p>
+<p>Supermicro is at the forefront of the industry's shift towards liquid-cooled AI data centers, offering an approach to energy efficiency that meets the increasing demands for power in today’s AI infrastructure.</p>
+<p>With expertise in deploying large-scale direct-to-chip (DLC) liquid-cooled AI systems, Supermicro’s advanced liquid cooling technology is driving some of the most ambitious AI infrastructure projects globally.</p>
+
+<h2>Here’s the latest: </h2>
+<ul>
+<li><strong>1. Current Status </strong>
+<p>Colossus initially deployed 100,000 Nvidia GPUs within just 122 days, then doubled to 200,000 GPUs in a further 92 days.</p>
+<p>The system boasts an impressive memory bandwidth of 194 PB/s and over 1 EB of storage capacity.</p>
+</li>
+</ul>
+
+
+<ul>
+    <li><strong>2. The Million‑GPU Ambition </strong>
+        xAI plans to scale Colossus to a staggering 1 million GPUs, making it the largest AI supercomputer globally.
+        If realized, this would far outpace other large-scale GPU deployments like those in Oracle Cloud (~131,000 GPUs).
+     </li>
+    <li><strong>3. Funding and Infrastructure</strong>
+        In early 2025, xAI raised $10 billion to support this expansion, including procurement of Nvidia/AMD GPUs, power systems, and facilities.
+        The overall infrastructure investment in Memphis exceeds $400 million, including a dedicated Tesla Megapack battery storage system and substation upgrades.
+    </li>
+    <li><strong>4. Power & Sustainability Challenges</strong>
+        The current grid supply supports about 150 MW, supplemented with gas turbines. Scaling to 1 million GPUs will likely require 1 GW+ of power.
+        Environmental concerns have risen locally due to high power demand and emissions from on-site generation  .
+    </li>
+    <li><strong>5. Strategic Importance</strong>
+    Colossus powers xAI’s large language models like Grok 3 and integrates capabilities with X (formerly Twitter)  .
+    Memphis is positioning itself as a central AI hub, with Dell, Nvidia, and Supermicro establishing local operations to support the project  .
+    </li>`,
+        category: 'Technology',
+        author: 'FirmCade',
+        authorAvatar: 'images/FirmCade.png?w=150&h=150&fit=crop&crop=face',
+        date: 'June 28, 2025',
+        image: 'https://learn-more.supermicro.com/hubfs/xAI%20Data%20Center-story-post.jpg?w=800&h=600&fit=crop',
+        tags: ['AI', 'Technology', 'Innovation'],
+        featured: false,
+        trending: false
+    },
+
+
+
+
+
+
+
+
+
 
 
 
